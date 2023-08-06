@@ -1,0 +1,20 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" width="900" height="900">
+	<title>solidity-svg</title>
+	<style>
+		.s0 { opacity: .5;fill: #000000 } 
+		.s1 { opacity: .6;fill: #000000 } 
+		.s2 { opacity: .8;fill: #000000 } 
+	</style>
+	<g id="Page-1">
+		<g id="solidity">
+			<g id="Group">
+				<path id="Shape" class="s0" d="m573.8 53.3l-130.7 232.3h-261.3l130.7-232.3z"/>
+				<path id="Shape_1_" class="s1" d="m443.1 285.6h261.3l-130.6-232.3h-261.3z"/>
+				<path id="Shape_2_" class="s2" d="m312.5 517.8l130.6-232.2-130.6-232.3-130.7 232.3z"/>
+				<path id="Shape_3_" class="s0" d="m313.7 866.3l130.7-232.3h261.3l-130.7 232.3z"/>
+				<path id="Shape_4_" class="s1" d="m444.4 634h-261.3l130.6 232.3h261.3z"/>
+				<path id="Shape_5_" class="s2" d="m575 401.8l-130.6 232.2 130.6 232.3 130.7-232.3z"/>
+			</g>
+		</g>
+	</g>
+</svg>

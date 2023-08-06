@@ -1,0 +1,13 @@
+{
+  "name": "Wild Birds",
+  "description": "Wild birds are a diverse and captivating group of creatures that inhabit various ecosystems around the world. They come in a multitude of shapes, sizes, and colors, showcasing the remarkable beauty of nature. With their ability to fly, they grace the skies with elegance and agility, captivating our attention with their graceful movements.",
+  "image": "https://ipfs.io/ipfs/QmXjwCyHWfbYKufgjVCZWjKV3qffYzuzq6fHufxDKdRnfb",
+  "attributes": [
+    {
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Place": "air"
+    }
+  ]
+}

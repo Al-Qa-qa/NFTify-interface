@@ -1,0 +1,13 @@
+{
+  "name": "Bottlenose Dolphin",
+  "description": "The bottlenose dolphin (Tursiops truncatus) is a large, intelligent marine mammal found in all oceans of the world. They are the most common type of dolphin, and are often seen in captivity. Bottlenose dolphins are known for their friendly and playful behavior, and they have been featured in many movies and television shows.",
+  "image": "https://ipfs.io/ipfs/QmYjT6pQnL7aVHNGSRe96iUHAipqhyyBbxeohziTSwfLBN",
+  "attributes": [
+    {
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Mammalia",
+      "Place": "oceans"
+    }
+  ]
+}

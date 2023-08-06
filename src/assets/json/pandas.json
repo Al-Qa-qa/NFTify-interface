@@ -1,0 +1,13 @@
+{
+  "name": "Giant Panda",
+  "description": "Giant pandas are herbivores, and they eat almost exclusively bamboo. They have a special wrist bone that functions as an opposable thumb, which helps them to grip bamboo shoots and leaves. Giant pandas spend most of their day eating, and they can consume up to 40 pounds of bamboo per day.",
+  "image": "https://ipfs.io/ipfs/QmaTpMXtH6JBaqL3tX28p7xRAoyQoXqryTssJqeXgLk48h",
+  "attributes": [
+    {
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Mammalia",
+      "Place": "land"
+    }
+  ]
+}

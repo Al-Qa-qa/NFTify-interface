@@ -1,0 +1,13 @@
+{
+  "name": "Venomous Snake",
+  "description": "Venomous snakes are species of the suborder Serpentes that are capable of producing venom, which they use for killing prey, for defense, and to assist with digestion of their prey. The poison is typically delivered by injection using hollow or grooved fangs, although some poisonous snakes lack well-developed fangs.",
+  "image": "https://ipfs.io/ipfs/QmY1BdAXCFiTFNSXPFuF1FeddtM9Z3mvEnq5XQsTsj5VDe",
+  "attributes": [
+    {
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Reptilia",
+      "Place": "deserts"
+    }
+  ]
+}

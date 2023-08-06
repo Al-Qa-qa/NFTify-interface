@@ -1,0 +1,976 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 1032" width="1440" height="1032">
+	<title>sl_021422_48550_28-ai</title>
+	<defs>
+		<linearGradient id="g1" x1="437.7" y1="-354.7" x2="1669.4" y2="482.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#eddd8c"/>
+			<stop offset=".203" stop-color="#e1943f"/>
+			<stop offset=".473" stop-color="#b3692e"/>
+			<stop offset=".654" stop-color="#e1943f"/>
+			<stop offset=".855" stop-color="#f0e29c"/>
+			<stop offset="1" stop-color="#e18b3e"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="167.1" y1="346.7" x2="804.2" y2="-299.9" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#eddd8c"/>
+			<stop offset=".203" stop-color="#e1943f"/>
+			<stop offset=".473" stop-color="#b3692e"/>
+			<stop offset=".654" stop-color="#e1943f"/>
+			<stop offset=".855" stop-color="#f0e29c"/>
+			<stop offset="1" stop-color="#e18b3e"/>
+		</linearGradient>
+		<linearGradient id="g3" x1="481.6" y1="91.2" x2="977.5" y2="91.2" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#eddd8c"/>
+			<stop offset=".203" stop-color="#e1943f"/>
+			<stop offset=".473" stop-color="#b3692e"/>
+			<stop offset=".654" stop-color="#e1943f"/>
+			<stop offset=".855" stop-color="#f0e29c"/>
+			<stop offset="1" stop-color="#e18b3e"/>
+		</linearGradient>
+		<linearGradient id="g4" x1="597.3" y1="528.4" x2="66.8" y2="251.5" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#eddd8c"/>
+			<stop offset=".203" stop-color="#e1943f"/>
+			<stop offset=".473" stop-color="#b3692e"/>
+			<stop offset=".654" stop-color="#e1943f"/>
+			<stop offset=".855" stop-color="#f0e29c"/>
+			<stop offset="1" stop-color="#e18b3e"/>
+		</linearGradient>
+		<linearGradient id="g5" x1="586.2" y1="540.1" x2="62.5" y2="266.7" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#eddd8c"/>
+			<stop offset=".203" stop-color="#e1943f"/>
+			<stop offset=".473" stop-color="#b3692e"/>
+			<stop offset=".654" stop-color="#e1943f"/>
+			<stop offset=".855" stop-color="#f0e29c"/>
+			<stop offset="1" stop-color="#e18b3e"/>
+		</linearGradient>
+		<linearGradient id="g6" x1="571.4" y1="562.2" x2="50.4" y2="290.3" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#eddd8c"/>
+			<stop offset=".203" stop-color="#e1943f"/>
+			<stop offset=".473" stop-color="#b3692e"/>
+			<stop offset=".654" stop-color="#e1943f"/>
+			<stop offset=".855" stop-color="#f0e29c"/>
+			<stop offset="1" stop-color="#e18b3e"/>
+		</linearGradient>
+		<linearGradient id="g7" x1="904.5" y1="563.1" x2="-299.9" y2="-65.5" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#eddd8c"/>
+			<stop offset=".203" stop-color="#e1943f"/>
+			<stop offset=".473" stop-color="#b3692e"/>
+			<stop offset=".654" stop-color="#e1943f"/>
+			<stop offset=".855" stop-color="#f0e29c"/>
+			<stop offset="1" stop-color="#e18b3e"/>
+		</linearGradient>
+		<linearGradient id="g8" x1="810.8" y1="100.8" x2="290.4" y2="-170.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#eddd8c"/>
+			<stop offset=".203" stop-color="#e1943f"/>
+			<stop offset=".473" stop-color="#b3692e"/>
+			<stop offset=".654" stop-color="#e1943f"/>
+			<stop offset=".855" stop-color="#f0e29c"/>
+			<stop offset="1" stop-color="#e18b3e"/>
+		</linearGradient>
+		<linearGradient id="g9" x1="804" y1="108.6" x2="283.6" y2="-163.1" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#eddd8c"/>
+			<stop offset=".203" stop-color="#e1943f"/>
+			<stop offset=".473" stop-color="#b3692e"/>
+			<stop offset=".654" stop-color="#e1943f"/>
+			<stop offset=".855" stop-color="#f0e29c"/>
+			<stop offset="1" stop-color="#e18b3e"/>
+		</linearGradient>
+		<linearGradient id="g10" x1="833.3" y1="203.2" x2="103.7" y2="-177.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#eddd8c"/>
+			<stop offset=".203" stop-color="#e1943f"/>
+			<stop offset=".473" stop-color="#b3692e"/>
+			<stop offset=".654" stop-color="#e1943f"/>
+			<stop offset=".855" stop-color="#f0e29c"/>
+			<stop offset="1" stop-color="#e18b3e"/>
+		</linearGradient>
+		<linearGradient id="g11" x1="954.3" y1="358.2" x2="-174.7" y2="-231.1" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#eddd8c"/>
+			<stop offset=".203" stop-color="#e1943f"/>
+			<stop offset=".473" stop-color="#b3692e"/>
+			<stop offset=".654" stop-color="#e1943f"/>
+			<stop offset=".855" stop-color="#f0e29c"/>
+			<stop offset="1" stop-color="#e18b3e"/>
+		</linearGradient>
+		<linearGradient id="g12" x1="1601" y1="803.4" x2="-1244.6" y2="-681.9" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#eddd8c"/>
+			<stop offset=".203" stop-color="#e1943f"/>
+			<stop offset=".473" stop-color="#b3692e"/>
+			<stop offset=".654" stop-color="#e1943f"/>
+			<stop offset=".855" stop-color="#f0e29c"/>
+			<stop offset="1" stop-color="#e18b3e"/>
+		</linearGradient>
+		<linearGradient id="g13" x1="567.3" y1="564.9" x2="47" y2="293.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#eddd8c"/>
+			<stop offset=".203" stop-color="#e1943f"/>
+			<stop offset=".473" stop-color="#b3692e"/>
+			<stop offset=".654" stop-color="#e1943f"/>
+			<stop offset=".855" stop-color="#f0e29c"/>
+			<stop offset="1" stop-color="#e18b3e"/>
+		</linearGradient>
+		<linearGradient id="g14" x1="782.9" y1="143.1" x2="260.8" y2="-129.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#eddd8c"/>
+			<stop offset=".203" stop-color="#e1943f"/>
+			<stop offset=".473" stop-color="#b3692e"/>
+			<stop offset=".654" stop-color="#e1943f"/>
+			<stop offset=".855" stop-color="#f0e29c"/>
+			<stop offset="1" stop-color="#e18b3e"/>
+		</linearGradient>
+		<linearGradient id="g15" x1="744.5" y1="208" x2="218.2" y2="-66.7" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#eddd8c"/>
+			<stop offset=".203" stop-color="#e1943f"/>
+			<stop offset=".473" stop-color="#b3692e"/>
+			<stop offset=".654" stop-color="#e1943f"/>
+			<stop offset=".855" stop-color="#f0e29c"/>
+			<stop offset="1" stop-color="#e18b3e"/>
+		</linearGradient>
+		<linearGradient id="g16" x1="-520.9" y1="-290.3" x2="-3332.5" y2="-1757.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#eddd8c"/>
+			<stop offset=".203" stop-color="#e1943f"/>
+			<stop offset=".473" stop-color="#b3692e"/>
+			<stop offset=".654" stop-color="#e1943f"/>
+			<stop offset=".855" stop-color="#f0e29c"/>
+			<stop offset="1" stop-color="#e18b3e"/>
+		</linearGradient>
+		<linearGradient id="g17" x1="617.2" y1="272.6" x2="-56.6" y2="-79.1" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#eddd8c"/>
+			<stop offset=".203" stop-color="#e1943f"/>
+			<stop offset=".473" stop-color="#b3692e"/>
+			<stop offset=".654" stop-color="#e1943f"/>
+			<stop offset=".855" stop-color="#f0e29c"/>
+			<stop offset="1" stop-color="#e18b3e"/>
+		</linearGradient>
+		<linearGradient id="g18" x1="559.5" y1="490.6" x2="-55.3" y2="169.7" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#eddd8c"/>
+			<stop offset=".203" stop-color="#e1943f"/>
+			<stop offset=".473" stop-color="#b3692e"/>
+			<stop offset=".654" stop-color="#e1943f"/>
+			<stop offset=".855" stop-color="#f0e29c"/>
+			<stop offset="1" stop-color="#e18b3e"/>
+		</linearGradient>
+		<linearGradient id="g19" x1="804.8" y1="120.4" x2="274.5" y2="-156.3" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#eddd8c"/>
+			<stop offset=".203" stop-color="#e1943f"/>
+			<stop offset=".473" stop-color="#b3692e"/>
+			<stop offset=".654" stop-color="#e1943f"/>
+			<stop offset=".855" stop-color="#f0e29c"/>
+			<stop offset="1" stop-color="#e18b3e"/>
+		</linearGradient>
+		<linearGradient id="g20" x1="575.4" y1="544" x2="54.4" y2="272.1" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#eddd8c"/>
+			<stop offset=".203" stop-color="#e1943f"/>
+			<stop offset=".473" stop-color="#b3692e"/>
+			<stop offset=".654" stop-color="#e1943f"/>
+			<stop offset=".855" stop-color="#f0e29c"/>
+			<stop offset="1" stop-color="#e18b3e"/>
+		</linearGradient>
+		<linearGradient id="g21" x1="107.5" y1="117" x2="-1469.6" y2="-706.2" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#eddd8c"/>
+			<stop offset=".203" stop-color="#e1943f"/>
+			<stop offset=".473" stop-color="#b3692e"/>
+			<stop offset=".654" stop-color="#e1943f"/>
+			<stop offset=".855" stop-color="#f0e29c"/>
+			<stop offset="1" stop-color="#e18b3e"/>
+		</linearGradient>
+		<linearGradient id="g22" x1="452.1" y1="373.5" x2="-433.1" y2="-88.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#eddd8c"/>
+			<stop offset=".203" stop-color="#e1943f"/>
+			<stop offset=".473" stop-color="#b3692e"/>
+			<stop offset=".654" stop-color="#e1943f"/>
+			<stop offset=".855" stop-color="#f0e29c"/>
+			<stop offset="1" stop-color="#e18b3e"/>
+		</linearGradient>
+		<linearGradient id="g23" x1="1182.8" y1="-14.1" x2="734.9" y2="510.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#eddd8c"/>
+			<stop offset=".203" stop-color="#e1943f"/>
+			<stop offset=".473" stop-color="#b3692e"/>
+			<stop offset=".654" stop-color="#e1943f"/>
+			<stop offset=".855" stop-color="#f0e29c"/>
+			<stop offset="1" stop-color="#e18b3e"/>
+		</linearGradient>
+		<linearGradient id="g24" x1="1279" y1="68.1" x2="831.1" y2="592.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#eddd8c"/>
+			<stop offset=".203" stop-color="#e1943f"/>
+			<stop offset=".473" stop-color="#b3692e"/>
+			<stop offset=".654" stop-color="#e1943f"/>
+			<stop offset=".855" stop-color="#f0e29c"/>
+			<stop offset="1" stop-color="#e18b3e"/>
+		</linearGradient>
+		<linearGradient id="g25" x1="1338.1" y1="66.2" x2="844.9" y2="643.9" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#eddd8c"/>
+			<stop offset=".203" stop-color="#e1943f"/>
+			<stop offset=".473" stop-color="#b3692e"/>
+			<stop offset=".654" stop-color="#e1943f"/>
+			<stop offset=".855" stop-color="#f0e29c"/>
+			<stop offset="1" stop-color="#e18b3e"/>
+		</linearGradient>
+		<linearGradient id="g26" x1="354.5" y1="342.2" x2="749.4" y2="-89" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#c98534"/>
+			<stop offset=".203" stop-color="#a14819"/>
+			<stop offset=".473" stop-color="#631c0f"/>
+			<stop offset=".654" stop-color="#a14819"/>
+			<stop offset=".855" stop-color="#d7b748"/>
+			<stop offset="1" stop-color="#a33f1a"/>
+		</linearGradient>
+		<linearGradient id="g27" x1="394" y1="378.3" x2="788.9" y2="-52.9" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#c98534"/>
+			<stop offset=".203" stop-color="#a14819"/>
+			<stop offset=".473" stop-color="#631c0f"/>
+			<stop offset=".654" stop-color="#a14819"/>
+			<stop offset=".855" stop-color="#d7b748"/>
+			<stop offset="1" stop-color="#a33f1a"/>
+		</linearGradient>
+		<linearGradient id="g28" x1="436.7" y1="479.9" x2="873.7" y2="2.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#c98534"/>
+			<stop offset=".203" stop-color="#a14819"/>
+			<stop offset=".473" stop-color="#631c0f"/>
+			<stop offset=".654" stop-color="#a14819"/>
+			<stop offset=".855" stop-color="#d7b748"/>
+			<stop offset="1" stop-color="#a33f1a"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: #ff6800 } 
+		.s1 { fill: #ffa76a } 
+		.s2 { fill: #ffc69e } 
+		.s3 { fill: #ffddc6 } 
+		.s4 { fill: #fff0e6 } 
+		.s5 { fill: url(#g1) } 
+		.s6 { mix-blend-mode: multiply;fill: url(#g2) } 
+		.s7 { mix-blend-mode: multiply;fill: url(#g3) } 
+		.s8 { fill: url(#g4) } 
+		.s9 { fill: url(#g5) } 
+		.s10 { fill: url(#g6) } 
+		.s11 { fill: url(#g7) } 
+		.s12 { fill: url(#g8) } 
+		.s13 { fill: url(#g9) } 
+		.s14 { fill: url(#g10) } 
+		.s15 { fill: url(#g11) } 
+		.s16 { fill: url(#g12) } 
+		.s17 { fill: url(#g13) } 
+		.s18 { fill: url(#g14) } 
+		.s19 { fill: url(#g15) } 
+		.s20 { fill: url(#g16) } 
+		.s21 { fill: url(#g17) } 
+		.s22 { fill: url(#g18) } 
+		.s23 { fill: url(#g19) } 
+		.s24 { fill: url(#g20) } 
+		.s25 { fill: url(#g21) } 
+		.s26 { fill: url(#g22) } 
+		.s27 { fill: url(#g23) } 
+		.s28 { fill: url(#g24) } 
+		.s29 { fill: url(#g25) } 
+		.s30 { fill: url(#g26) } 
+		.s31 { fill: url(#g27) } 
+		.s32 { fill: url(#g28) } 
+	</style>
+	<g id="_Artboards_">
+	</g>
+	<g id="Layer 1">
+		<g id="&lt;Group&gt;">
+			<g id="&lt;Clip Group&gt;">
+				<g id="&lt;Group&gt;">
+					<g id="&lt;Group&gt;">
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 1042c-15.8 0-31.7-3.8-46-11.6l-627-336.8c-31.6-17-51.3-50-51.2-85.9 0.1-35.9 19.9-68.8 51.6-85.6l643.9-342c28.6-15.2 63-15.1 91.6 0.3l627 336.8c31.6 17 51.3 50 51.2 85.9-0.1 35.9-20 68.8-51.7 85.7l-643.8 341.9c-14.3 7.5-29.9 11.3-45.6 11.3zm-420.6-433.6l420.9 226.2 437.2-232.2-420.9-226.2z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 1039.8c-15.5 0-30.9-3.8-45-11.3l-627-336.9c-30.9-16.6-50.1-48.8-50-83.9 0.1-35.1 19.5-67.2 50.4-83.7l643.9-341.9c28-14.9 61.6-14.8 89.5 0.2l627 336.9c30.9 16.6 50.1 48.9 50.1 83.9-0.1 35.1-19.5 67.3-50.5 83.7l-643.8 341.9c-14 7.4-29.3 11.1-44.6 11.1zm-425.3-431.4l425.5 228.7 442-234.7-425.6-228.7z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 1037.6c-15.1 0-30.2-3.7-43.9-11l-627-336.9c-30.2-16.2-49-47.7-48.9-82 0.1-34.3 19-65.7 49.3-81.7l643.8-342c27.4-14.5 60.2-14.4 87.5 0.3l627 336.8c30.1 16.2 48.9 47.8 48.8 82 0 34.3-19 65.7-49.2 81.8l-643.9 341.9c-13.6 7.2-28.6 10.8-43.5 10.8zm-430-429.2l430.2 231.2 446.7-237.2-430.3-231.2z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 1035.4c-14.8 0-29.5-3.6-42.9-10.8l-627-336.9c-29.4-15.8-47.8-46.6-47.7-80 0.1-33.4 18.6-64.1 48.1-79.8l643.9-341.9c26.7-14.2 58.7-14.1 85.3 0.2l627 336.9c29.5 15.8 47.8 46.6 47.7 80 0 33.4-18.5 64.1-48.1 79.8l-643.8 341.9c-13.3 7.1-27.9 10.6-42.5 10.6zm-434.7-427l434.9 233.7 451.4-239.7-435-233.7z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 1033.2c-14.4 0-28.8-3.5-41.8-10.5l-627-336.9c-28.8-15.5-46.7-45.5-46.6-78.1 0.1-32.6 18.1-62.5 46.9-77.8l643.9-342c26.1-13.8 57.3-13.7 83.3 0.2l627 336.9c28.7 15.5 46.6 45.5 46.5 78.1-0.1 32.6-18.1 62.6-46.9 77.9l-643.9 341.9c-12.9 6.8-27.2 10.3-41.4 10.3zm-439.4-424.8l439.6 236.2 456-242.2-439.6-236.2z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 1031c-14 0-28.1-3.4-40.8-10.3l-627-336.9c-28-15-45.5-44.3-45.4-76.1 0.1-31.8 17.7-61 45.8-75.9l643.8-341.9c25.4-13.5 55.9-13.4 81.2 0.2l627 336.9c28 15 45.5 44.3 45.4 76.1-0.1 31.8-17.7 61-45.7 75.9l-643.9 341.9c-12.6 6.7-26.5 10.1-40.4 10.1zm-444.1-422.6l444.3 238.7 460.7-244.7-444.3-238.7z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 1028.8c-13.7 0-27.3-3.4-39.8-10l-626.9-336.9c-27.3-14.7-44.3-43.2-44.3-74.2 0.1-31 17.2-59.4 44.6-73.9l643.9-341.9c24.7-13.2 54.4-13.1 79.1 0.1l627 336.9c27.3 14.7 44.3 43.2 44.2 74.2-0.1 31-17.2 59.4-44.6 73.9l-643.8 342c-12.3 6.5-25.9 9.8-39.4 9.8zm-448.8-420.4l449 241.2 465.4-247.1-449-241.3z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 1026.6c-13.3 0-26.6-3.3-38.7-9.8l-627-336.9c-26.6-14.2-43.1-42-43.1-72.2 0.1-30.2 16.8-57.8 43.5-72l643.8-341.9c24.1-12.8 53-12.7 77.1 0.2l626.9 336.9c26.6 14.2 43.2 42 43.1 72.2-0.1 30.2-16.8 57.8-43.4 72l-643.9 341.9c-12 6.4-25.1 9.6-38.3 9.6zm-453.5-418.3l453.7 243.8 470.1-249.6-453.7-243.8z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 1024.3c-13 0-25.9-3.1-37.7-9.4l-626.9-336.9c-25.9-13.9-42-40.9-41.9-70.3 0-29.3 16.3-56.3 42.2-70l643.8-341.9c23.5-12.5 51.6-12.4 75 0.1l627 336.9c25.9 13.9 42 40.9 41.9 70.3-0.1 29.3-16.3 56.3-42.2 70l-643.9 341.9c-11.7 6.3-24.5 9.3-37.3 9.3zm-458.2-416l458.4 246.3 474.8-252.1-458.4-246.3z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 1022.1c-12.6 0-25.2-3-36.6-9.2l-627-336.9c-25.2-13.5-40.8-39.7-40.7-68.3 0-28.5 15.8-54.7 41-68.1l643.9-341.9c22.8-12.1 50.1-12 72.9 0.2l626.9 336.9c25.2 13.5 40.9 39.7 40.8 68.3-0.1 28.5-15.9 54.7-41.1 68.1l-643.8 341.9c-11.4 6-23.8 9-36.3 9zm-462.8-413.8l463 248.8 479.5-254.6-463.1-248.8z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 1019.9c-12.2 0-24.5-3-35.6-8.9l-627-336.9c-24.4-13.1-39.6-38.6-39.5-66.4 0-27.7 15.4-53.1 39.9-66.1l643.8-341.9c22.2-11.8 48.7-11.7 70.8 0.1l627 336.9c24.4 13.1 39.6 38.6 39.6 66.4-0.1 27.7-15.4 53.1-39.9 66.1l-643.9 342c-11 5.8-23.1 8.7-35.2 8.7zm-467.5-411.6l467.7 251.3 484.2-257.1-467.8-251.3z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 1017.7c-11.9 0-23.7-2.9-34.5-8.7l-627-336.8c-23.7-12.8-38.5-37.5-38.4-64.5 0-26.9 14.9-51.6 38.7-64.2l643.9-341.9c21.5-11.4 47.2-11.3 68.7 0.2l627 336.9c23.7 12.7 38.4 37.5 38.4 64.4-0.1 26.9-15 51.6-38.8 64.2l-643.8 341.9c-10.7 5.7-22.5 8.5-34.2 8.5zm-472.2-409.4l472.4 253.8 488.9-259.6-472.4-253.8z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 1015.5c-11.5 0-23-2.8-33.5-8.4l-627-336.9c-23-12.3-37.3-36.4-37.2-62.5 0-26 14.5-50 37.5-62.2l643.9-341.9c20.8-11.1 45.8-11 66.6 0.1l627 336.9c23 12.4 37.3 36.4 37.2 62.5 0 26.1-14.4 50-37.5 62.2l-643.8 341.9c-10.4 5.6-21.8 8.3-33.2 8.3zm-476.9-407.2l477.1 256.3 493.6-262.1-477.1-256.3z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 1013.3c-11.2 0-22.3-2.7-32.4-8.2l-627-336.8c-22.3-12-36.2-35.3-36.1-60.5 0.1-25.3 14-48.5 36.4-60.4l643.8-341.9c20.2-10.7 44.4-10.6 64.6 0.2l627 336.8c22.2 12 36.1 35.3 36 60.6 0 25.2-14 48.4-36.3 60.3l-643.9 341.9c-10 5.3-21.1 8-32.1 8zm-481.6-405l481.8 258.8 498.3-264.6-481.8-258.8z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 1011.1c-10.8 0-21.6-2.6-31.4-7.9l-627-336.9c-21.5-11.6-34.9-34.1-34.9-58.5 0.1-24.5 13.6-46.9 35.2-58.4l643.9-341.9c19.5-10.4 42.9-10.4 62.4 0.1l627 336.9c21.6 11.6 35 34.1 34.9 58.5 0 24.5-13.6 47-35.2 58.4l-643.8 341.9c-9.7 5.2-20.4 7.8-31.1 7.8zm-486.3-402.8l486.5 261.3 502.9-267.1-486.4-261.3z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 1008.9c-10.4 0-20.9-2.6-30.3-7.7l-627-336.8c-20.9-11.2-33.8-33-33.8-56.6 0.1-23.7 13.2-45.4 34-56.5l643.9-341.9c18.9-10 41.5-10 60.4 0.2l627 336.8c20.8 11.2 33.8 33 33.7 56.6 0 23.7-13.1 45.4-34 56.5l-643.9 341.9c-9.4 5-19.7 7.5-30 7.5zm-491-400.6l491.2 263.8 507.6-269.5-491.1-263.9z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 1006.7c-10.1 0-20.2-2.5-29.3-7.4l-627-336.9c-20.1-10.8-32.6-31.8-32.6-54.6 0.1-22.9 12.7-43.8 32.9-54.5l643.8-341.9c18.3-9.7 40.1-9.7 58.3 0.1l627 336.9c20.1 10.8 32.7 31.8 32.6 54.6 0 22.9-12.7 43.8-32.8 54.5l-643.9 341.9c-9.1 4.9-19 7.3-29 7.3zm-495.7-398.5l495.9 266.4 512.3-272-495.8-266.4z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 1004.5c-9.7 0-19.4-2.4-28.3-7.1l-626.9-336.9c-19.4-10.4-31.5-30.7-31.5-52.7 0.1-22 12.3-42.2 31.7-52.6l643.9-341.9c17.6-9.3 38.6-9.3 56.2 0.2l627 336.8c19.4 10.5 31.5 30.7 31.4 52.7-0.1 22-12.2 42.3-31.7 52.6l-643.8 341.9c-8.8 4.6-18.4 7-28 7zm-500.4-396.3l500.6 269 517-274.6-500.5-268.9z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 1002.2c-9.4 0-18.7-2.2-27.2-6.8l-627-336.9c-18.7-10-30.3-29.5-30.3-50.7 0.1-21.2 11.8-40.7 30.6-50.6l643.8-341.9c16.9-9 37.3-9 54.1 0.1l627 336.9c18.7 10 30.3 29.5 30.3 50.7-0.1 21.2-11.8 40.7-30.5 50.6l-643.9 341.9c-8.4 4.5-17.7 6.7-26.9 6.7zm-505.1-394l505.2 271.5 521.8-277.1-505.2-271.5z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 1000c-9 0-18-2.2-26.2-6.5l-626.9-336.9c-18-9.7-29.2-28.4-29.1-48.8 0-20.4 11.3-39.1 29.3-48.7l643.8-341.9c16.3-8.6 35.9-8.6 52.1 0.2l627 336.8c17.9 9.7 29.1 28.4 29.1 48.8-0.1 20.4-11.3 39.1-29.3 48.7l-643.9 341.9c-8.1 4.3-17 6.4-25.9 6.4zm-509.8-391.8l509.9 274 526.5-279.6-509.9-274z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 997.8c-8.6 0-17.3-2.1-25.1-6.3l-627-336.9c-17.2-9.2-28-27.2-27.9-46.8 0-19.6 10.8-37.5 28.1-46.7l643.9-341.9c15.6-8.3 34.4-8.3 50 0.1l626.9 336.9c17.3 9.2 28 27.2 28 46.8-0.1 19.6-10.9 37.5-28.2 46.7l-643.8 341.9c-7.8 4.2-16.4 6.2-24.9 6.2zm-514.4-389.6l514.5 276.5 531.2-282.1-514.6-276.5z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 995.6c-8.3 0-16.6-2-24.1-6l-627-336.9c-16.5-8.9-26.8-26.1-26.7-44.9 0-18.8 10.4-36 27-44.8l643.8-341.9c15-7.9 33-7.9 47.9 0.1l627 336.9c16.5 8.9 26.8 26.2 26.8 44.9-0.1 18.8-10.5 36-27 44.8l-643.9 341.9c-7.4 3.9-15.6 5.9-23.8 5.9zm-519.1-387.4l519.2 279 535.9-284.6-519.3-279z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 993.4c-7.9 0-15.8-1.9-23-5.8l-627-336.9c-15.8-8.4-25.7-25-25.6-42.9 0-17.9 10-34.4 25.8-42.8l643.9-341.9c14.3-7.6 31.5-7.6 45.8 0.1l627 336.9c15.8 8.5 25.6 25 25.6 42.9-0.1 17.9-10 34.4-25.9 42.8l-643.8 341.9c-7.1 3.8-15 5.7-22.8 5.7zm-523.8-385.2l523.9 281.5 540.6-287.1-524-281.5z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 991.2c-7.6 0-15.1-1.8-22-5.5l-627-336.9c-15.1-8.1-24.4-23.9-24.4-41 0-17.1 9.5-32.8 24.6-40.9l643.9-341.9c13.7-7.2 30.1-7.2 43.7 0.1l627 336.9c15.1 8.1 24.5 23.9 24.4 41 0 17.1-9.5 32.8-24.6 40.9l-643.8 341.9c-6.8 3.6-14.3 5.4-21.8 5.4zm-528.5-383l528.6 284 545.3-289.6-528.7-284z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 989c-7.2 0-14.4-1.8-20.9-5.3l-627-336.8c-14.4-7.8-23.3-22.8-23.3-39.1 0-16.3 9.1-31.3 23.5-38.9l643.8-341.9c13.1-6.9 28.7-6.9 41.7 0.1l627 336.9c14.3 7.7 23.3 22.7 23.2 39 0 16.3-9 31.3-23.4 38.9l-643.9 341.9c-6.5 3.5-13.6 5.2-20.7 5.2zm-533.2-380.8l533.3 286.5 549.9-292-533.3-286.6z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 986.8c-6.8 0-13.7-1.7-19.9-5l-627-336.9c-13.6-7.3-22.1-21.6-22.1-37.1 0-15.5 8.6-29.7 22.3-37l643.9-341.9c12.3-6.5 27.2-6.5 39.5 0.1l627 336.9c13.7 7.3 22.2 21.6 22.1 37.1 0 15.5-8.6 29.7-22.3 37l-643.8 341.9c-6.2 3.2-12.9 4.9-19.7 4.9zm-537.9-378.7l538 289.1 554.6-294.5-538-289.1z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 984.6c-6.5 0-13-1.6-18.8-4.8l-627-336.8c-13-7-21-20.5-21-35.2 0.1-14.7 8.2-28.1 21.1-35l643.9-341.9c11.7-6.2 25.8-6.2 37.5 0.1l627 336.8c12.9 7 21 20.5 20.9 35.2 0 14.7-8.1 28.1-21.1 35l-643.9 341.9c-5.8 3.1-12.2 4.7-18.6 4.7zm-542.6-376.5l542.7 291.6 559.3-297-542.7-291.6z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 982.4c-6.1 0-12.2-1.5-17.8-4.5l-627-336.9c-12.2-6.5-19.8-19.3-19.8-33.2 0.1-13.8 7.7-26.5 20-33.1l643.8-341.9c11.1-5.9 24.4-5.8 35.4 0.1l627 336.9c12.2 6.6 19.8 19.3 19.8 33.2 0 13.8-7.7 26.6-19.9 33.1l-643.9 341.9c-5.5 2.9-11.6 4.4-17.6 4.4zm-547.3-374.3l547.4 294.1 564-299.5-547.3-294.1z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 980.1c-5.8 0-11.5-1.4-16.7-4.2l-627-336.8c-11.5-6.2-18.7-18.2-18.7-31.3 0.1-13 7.3-25 18.8-31.1l643.9-341.9c10.4-5.5 22.9-5.5 33.3 0.1l627 336.8c11.5 6.2 18.6 18.2 18.6 31.3 0 13-7.3 25-18.8 31.1l-643.8 341.9c-5.2 2.8-10.9 4.1-16.6 4.1zm-552-372l552.1 296.6 568.7-302-552-296.6z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 977.9c-5.4 0-10.8-1.3-15.7-3.9l-627-336.9c-10.8-5.8-17.5-17-17.4-29.3 0-12.2 6.8-23.4 17.6-29.2l643.8-341.9c9.8-5.1 21.5-5.1 31.2 0.1l627 336.9c10.8 5.8 17.5 17 17.5 29.3 0 12.2-6.8 23.4-17.6 29.2l-643.9 341.9c-4.8 2.6-10.2 3.8-15.5 3.8zm-556.7-369.8l556.8 299.1 573.4-304.5-556.7-299.1z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 975.7c-5 0-10.1-1.2-14.7-3.7l-626.9-336.8c-10.1-5.4-16.4-15.9-16.3-27.3 0-11.5 6.3-21.9 16.4-27.3l643.8-341.9c9.2-4.9 20.1-4.8 29.2 0.1l627 336.8c10 5.4 16.3 15.9 16.3 27.4-0.1 11.4-6.4 21.9-16.5 27.2l-643.8 341.9c-4.5 2.4-9.5 3.6-14.5 3.6zm-561.3-367.6l561.4 301.6 578.1-307-561.4-301.6z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 973.5c-4.7 0-9.4-1.1-13.6-3.4l-627-336.9c-9.3-5-15.2-14.7-15.1-25.3 0-10.7 5.9-20.4 15.2-25.3l643.9-342c8.5-4.5 18.6-4.4 27.1 0.1l626.9 336.9c9.4 5 15.2 14.8 15.2 25.4-0.1 10.6-5.9 20.3-15.3 25.3l-643.8 341.9c-4.3 2.2-8.9 3.3-13.5 3.3zm-566-365.4l566.1 304.1 582.8-309.5-566.1-304.1z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 971.3c-4.3 0-8.6-1-12.6-3.1l-627-336.9c-8.6-4.7-13.9-13.7-13.9-23.4 0-9.8 5.4-18.8 14.1-23.4l643.8-341.9c7.8-4.2 17.2-4.1 25 0.1l627 336.8c8.6 4.7 14 13.7 14 23.5-0.1 9.7-5.5 18.7-14.1 23.3l-643.9 341.9c-3.9 2.1-8.1 3.1-12.4 3.1zm-570.7-363.2l570.8 306.6 587.5-311.9-570.8-306.7z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 969.1c-4 0-7.9-1-11.5-2.9l-627-336.9c-7.9-4.2-12.8-12.5-12.8-21.4 0-9 5-17.2 12.9-21.4l643.9-342c7.1-3.8 15.7-3.7 22.9 0.1l626.9 336.9c7.9 4.2 12.9 12.5 12.8 21.4 0 9-4.9 17.3-12.9 21.5l-643.8 341.9c-3.6 1.9-7.5 2.8-11.4 2.8zm-575.4-361.1l575.5 309.2 592.2-314.4-575.5-309.2z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 966.9c-3.6 0-7.2-0.9-10.5-2.6l-627-336.9c-7.1-3.9-11.6-11.4-11.6-19.5 0-8.2 4.5-15.7 11.7-19.5l643.9-341.9c6.5-3.5 14.3-3.4 20.8 0l627 336.9c7.2 3.9 11.7 11.4 11.6 19.5 0 8.2-4.5 15.7-11.7 19.5l-643.8 341.9c-3.3 1.7-6.8 2.6-10.4 2.6zm-580.1-358.9l580.1 311.7 596.9-316.9-580.1-311.7z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 964.7c-3.2 0-6.5-0.8-9.4-2.4l-627-336.9c-6.5-3.4-10.5-10.2-10.5-17.5 0-7.4 4.1-14.1 10.6-17.5l643.8-342c5.9-3.1 12.9-3 18.8 0.1l627 336.9c6.4 3.4 10.4 10.2 10.4 17.5 0 7.4-4 14.1-10.5 17.6l-643.9 341.9c-2.9 1.5-6.1 2.3-9.3 2.3zm-584.8-356.7l584.8 314.3 601.6-319.5-584.8-314.2z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 962.5c-2.9 0-5.8-0.7-8.4-2.1l-627-336.9c-5.7-3.1-9.3-9.1-9.3-15.6 0-6.5 3.6-12.5 9.4-15.6l643.9-341.9c5.2-2.8 11.4-2.7 16.6 0l627 336.9c5.8 3.1 9.3 9.1 9.3 15.6 0 6.6-3.6 12.5-9.4 15.6l-643.8 341.9c-2.6 1.4-5.5 2.1-8.3 2.1zm-589.5-354.5l589.5 316.8 606.3-322-589.5-316.7z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 960.3c-2.5 0-5-0.7-7.3-1.9l-627-336.9c-5.1-2.7-8.2-7.9-8.2-13.6 0-5.7 3.2-11 8.2-13.6l643.9-341.9c4.6-2.5 10-2.5 14.6 0l627 336.9c5 2.7 8.1 7.9 8.1 13.6 0 5.7-3.2 11-8.2 13.6l-643.9 342c-2.2 1.2-4.7 1.8-7.2 1.8zm-594.2-352.3l594.2 319.3 611-324.5-594.2-319.2z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: .1">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 958.1c-2.2 0-4.3-0.6-6.3-1.6l-627-336.9c-4.3-2.3-7-6.8-7-11.7 0-4.9 2.8-9.4 7.1-11.7l643.8-341.9c3.9-2.1 8.6-2.1 12.5 0l627 336.9c4.3 2.3 7 6.8 7 11.7 0 4.9-2.7 9.4-7 11.7l-643.9 341.9c-1.9 1-4.1 1.6-6.2 1.6zm-598.9-350.1l598.9 321.8 615.7-327-598.9-321.8z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 955.8c-1.8 0-3.6-0.4-5.2-1.3l-627-336.8c-3.6-2-5.9-5.7-5.8-9.8 0-4.1 2.2-7.8 5.8-9.7l643.9-341.9c3.2-1.8 7.1-1.8 10.4 0l627 336.9c3.6 1.9 5.8 5.6 5.8 9.7 0 4.1-2.3 7.8-5.9 9.7l-643.8 342c-1.6 0.8-3.4 1.2-5.2 1.2zm-603.6-347.8l603.6 324.3 620.4-329.5-603.6-324.3z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s1" d="m717.8 953.4c-1.4 0-2.8-0.4-4.1-1l-627-336.9c-2.8-1.5-4.5-4.4-4.5-7.6 0-3.2 1.8-6.1 4.6-7.6l643.8-341.9c2.6-1.3 5.6-1.3 8.1 0l627 336.9c2.8 1.5 4.5 4.4 4.5 7.6 0 3.2-1.7 6.1-4.5 7.6l-643.9 341.9c-1.2 0.7-2.6 1-4 1zm-608.8-345.4l608.8 327.1 625.6-332.3-608.8-327z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s2" d="m717.8 950.9c-1 0-2-0.2-2.9-0.7l-627-336.9c-2-1-3.2-3.1-3.2-5.4 0-2.3 1.2-4.3 3.2-5.4l643.9-341.9c1.8-1 4-1 5.8 0l626.9 336.9c2 1 3.3 3.1 3.3 5.4 0 2.3-1.3 4.3-3.3 5.4l-643.8 341.9c-0.9 0.5-1.9 0.7-2.9 0.7zm-614-342.9l614 329.8 630.8-334.9-614-329.9z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s3" d="m717.8 948.5c-0.6 0-1.2-0.2-1.8-0.5l-626.9-336.8c-1.2-0.7-2-1.9-2-3.3 0-1.3 0.8-2.6 2-3.2l643.8-341.9c1.1-0.6 2.4-0.6 3.5 0l627 336.8c1.2 0.7 1.9 1.9 1.9 3.3 0 1.4-0.7 2.6-1.9 3.2l-643.9 341.9q-0.8 0.5-1.7 0.5zm-619.2-340.6l619.2 332.7 636-337.7-619.2-332.7z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s4" d="m717.8 946q-0.3 0-0.6-0.1l-627-336.9c-0.4-0.2-0.6-0.6-0.6-1.1 0-0.4 0.2-0.8 0.6-1.1l643.9-341.9c0.3-0.2 0.8-0.2 1.1 0l627 336.9c0.4 0.2 0.7 0.6 0.7 1.1 0 0.4-0.3 0.9-0.7 1.1l-643.8 341.9q-0.3 0.1-0.6 0.1zm-624.4-338.1l624.4 335.5 641.2-340.5-624.3-335.5z"/>
+							</g>
+						</g>
+					</g>
+					<g id="&lt;Group&gt;">
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 955c-15.8 0-31.7-3.8-46-11.5l-627-336.9c-31.6-17-51.3-50-51.2-85.9 0.1-35.9 19.9-68.8 51.6-85.6l643.9-341.9c28.6-15.3 63-15.2 91.6 0.2l627 336.9c31.6 16.9 51.3 50 51.2 85.8-0.1 35.9-20 68.8-51.7 85.7l-643.8 341.9c-14.3 7.6-29.9 11.3-45.6 11.3zm-420.6-433.6l420.9 226.2 437.2-232.2-420.9-226.1z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 952.8c-15.5 0-30.9-3.7-45-11.3l-627-336.9c-30.9-16.6-50.1-48.8-50-83.9 0.1-35.1 19.5-67.2 50.4-83.7l643.9-341.9c28-14.8 61.6-14.8 89.5 0.2l627 336.9c30.9 16.6 50.1 48.9 50.1 83.9-0.1 35.1-19.5 67.3-50.5 83.7l-643.8 341.9c-14 7.4-29.3 11.1-44.6 11.1zm-425.3-431.4l425.5 228.7 442-234.7-425.6-228.6z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 950.6c-15.1 0-30.2-3.7-43.9-11l-627-336.9c-30.2-16.2-49-47.7-48.9-82 0.1-34.2 19-65.7 49.3-81.7l643.8-341.9c27.4-14.6 60.2-14.5 87.5 0.2l627 336.9c30.1 16.2 48.9 47.7 48.8 81.9 0 34.3-19 65.7-49.2 81.8l-643.9 341.9c-13.6 7.2-28.6 10.8-43.5 10.8zm-430-429.2l430.2 231.2 446.7-237.2-430.3-231.1z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 948.4c-14.8 0-29.5-3.6-42.9-10.8l-627-336.8c-29.4-15.9-47.8-46.6-47.7-80.1 0.1-33.4 18.6-64.1 48.1-79.8l643.9-341.9c26.7-14.2 58.7-14.1 85.3 0.2l627 336.9c29.5 15.8 47.8 46.6 47.7 80 0 33.5-18.5 64.1-48.1 79.8l-643.8 341.9c-13.3 7.1-27.9 10.6-42.5 10.6zm-434.7-427l434.9 233.7 451.4-239.7-435-233.7z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 946.2c-14.4 0-28.8-3.5-41.8-10.5l-627-336.9c-28.8-15.4-46.7-45.5-46.6-78.1 0.1-32.6 18.1-62.5 46.9-77.8l643.9-341.9c26.1-13.9 57.3-13.8 83.3 0.2l627 336.8c28.7 15.5 46.6 45.5 46.5 78.1-0.1 32.6-18.1 62.6-46.9 77.9l-643.9 341.9c-12.9 6.9-27.2 10.3-41.4 10.3zm-439.4-424.8l439.6 236.2 456-242.1-439.6-236.3z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 944c-14 0-28.1-3.4-40.8-10.3l-627-336.8c-28-15.1-45.5-44.4-45.4-76.2 0.1-31.8 17.7-60.9 45.8-75.9l643.8-341.9c25.4-13.5 55.9-13.4 81.2 0.2l627 336.9c28 15 45.5 44.3 45.4 76.1-0.1 31.8-17.7 61-45.7 75.9l-643.9 341.9c-12.6 6.7-26.5 10.1-40.4 10.1zm-444.1-422.6l444.3 238.7 460.7-244.6-444.3-238.8z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 941.8c-13.7 0-27.3-3.3-39.8-10l-626.9-336.9c-27.3-14.7-44.3-43.2-44.3-74.2 0.1-31 17.2-59.4 44.6-73.9l643.9-341.9c24.7-13.2 54.4-13.1 79.1 0.2l627 336.8c27.3 14.7 44.3 43.2 44.2 74.2-0.1 31-17.2 59.4-44.6 74l-643.8 341.9c-12.3 6.5-25.9 9.8-39.4 9.8zm-448.8-420.4l449 241.2 465.4-247.1-449-241.3z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 939.6c-13.3 0-26.6-3.3-38.7-9.8l-627-336.8c-26.6-14.3-43.1-42.1-43.1-72.3 0.1-30.1 16.8-57.8 43.5-72l643.8-341.9c24.1-12.8 53-12.7 77.1 0.2l626.9 336.9c26.6 14.3 43.2 42 43.1 72.2-0.1 30.2-16.8 57.9-43.4 72l-643.9 341.9c-12 6.4-25.1 9.6-38.3 9.6zm-453.5-418.2l453.7 243.7 470.1-249.6-453.7-243.8z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 937.4c-13 0-25.9-3.2-37.7-9.5l-626.9-336.9c-25.9-13.9-42-40.9-41.9-70.3 0-29.3 16.3-56.2 42.2-70l643.8-341.9c23.5-12.5 51.6-12.4 75 0.2l627 336.8c25.9 13.9 42 40.9 41.9 70.3-0.1 29.4-16.3 56.3-42.2 70.1l-643.9 341.9c-11.7 6.2-24.5 9.3-37.3 9.3zm-458.2-416l458.4 246.2 474.8-252.1-458.4-246.3z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 935.2c-12.6 0-25.2-3.1-36.6-9.3l-627-336.8c-25.2-13.5-40.8-39.8-40.7-68.3 0-28.6 15.8-54.8 41-68.2l643.9-341.9c22.8-12.1 50.1-12 72.9 0.2l626.9 336.9c25.2 13.5 40.9 39.8 40.8 68.3-0.1 28.5-15.9 54.7-41.1 68.1l-643.8 341.9c-11.4 6-23.8 9.1-36.3 9.1zm-462.8-413.9l463 248.8 479.5-254.6-463.1-248.8z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 932.9c-12.2 0-24.5-2.9-35.6-8.9l-627-336.9c-24.4-13.1-39.6-38.6-39.5-66.3 0-27.8 15.4-53.2 39.9-66.2l643.8-341.9c22.2-11.8 48.7-11.7 70.8 0.2l627 336.8c24.4 13.2 39.6 38.7 39.6 66.4-0.1 27.7-15.4 53.2-39.9 66.2l-643.9 341.9c-11 5.8-23.1 8.7-35.2 8.7zm-467.5-411.6l467.7 251.3 484.2-257.1-467.8-251.3z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 930.7c-11.9 0-23.7-2.9-34.5-8.6l-627-336.9c-23.7-12.8-38.5-37.5-38.4-64.4 0-26.9 14.9-51.6 38.7-64.3l643.9-341.9c21.5-11.4 47.2-11.3 68.7 0.2l627 336.9c23.7 12.7 38.4 37.5 38.4 64.4-0.1 26.9-15 51.6-38.8 64.2l-643.8 341.9c-10.7 5.7-22.5 8.5-34.2 8.5zm-472.2-409.4l472.4 253.8 488.9-259.6-472.4-253.8z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 928.5c-11.5 0-23-2.8-33.5-8.4l-627-336.9c-23-12.3-37.3-36.3-37.2-62.4 0-26.1 14.5-50.1 37.5-62.3l643.9-341.9c20.8-11.1 45.8-11 66.6 0.1l627 336.9c23 12.4 37.3 36.4 37.2 62.5 0 26.1-14.4 50-37.5 62.3l-643.8 341.9c-10.4 5.5-21.8 8.2-33.2 8.2zm-476.9-407.2l477.1 256.3 493.6-262.1-477.1-256.3z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 926.3c-11.2 0-22.3-2.7-32.4-8.1l-627-336.9c-22.3-12-36.2-35.2-36.1-60.5 0.1-25.3 14-48.5 36.4-60.4l643.8-341.9c20.2-10.7 44.4-10.6 64.6 0.2l627 336.9c22.2 11.9 36.1 35.2 36 60.5 0 25.3-14 48.4-36.3 60.3l-643.9 341.9c-10 5.3-21.1 8-32.1 8zm-481.6-405l481.8 258.9 498.3-264.6-481.8-258.9z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 924.1c-10.8 0-21.6-2.6-31.4-7.9l-627-336.9c-21.5-11.5-34.9-34.1-34.9-58.5 0.1-24.5 13.6-46.9 35.2-58.4l643.9-341.9c19.5-10.4 42.9-10.3 62.4 0.1l627 336.9c21.6 11.6 35 34.1 34.9 58.6 0 24.4-13.6 46.9-35.2 58.4l-643.8 341.9c-9.7 5.1-20.4 7.7-31.1 7.7zm-486.3-402.8l486.5 261.4 502.9-267.1-486.4-261.4z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 921.9c-10.4 0-20.9-2.5-30.3-7.6l-627-336.9c-20.9-11.2-33.8-33-33.8-56.6 0.1-23.7 13.2-45.4 34-56.5l643.9-341.9c18.9-10 41.5-9.9 60.4 0.2l627 336.9c20.8 11.1 33.8 32.9 33.7 56.6 0 23.6-13.1 45.3-34 56.4l-643.9 341.9c-9.4 5-19.7 7.5-30 7.5zm-491-400.6l491.2 263.9 507.6-269.6-491.1-263.9z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 919.7c-10.1 0-20.2-2.5-29.3-7.4l-627-336.9c-20.1-10.8-32.6-31.8-32.6-54.6 0.1-22.8 12.7-43.8 32.9-54.5l643.8-341.9c18.3-9.7 40.1-9.6 58.3 0.1l627 336.9c20.1 10.8 32.7 31.8 32.6 54.7 0 22.8-12.7 43.7-32.8 54.5l-643.9 341.9c-9.1 4.8-19 7.2-29 7.2zm-495.7-398.4l495.9 266.4 512.3-272.1-495.8-266.4z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 917.5c-9.7 0-19.4-2.4-28.3-7.1l-626.9-336.9c-19.4-10.4-31.5-30.7-31.5-52.7 0.1-22 12.3-42.2 31.7-52.6l643.9-341.9c17.6-9.3 38.6-9.2 56.2 0.2l627 336.8c19.4 10.5 31.5 30.7 31.4 52.8-0.1 22-12.2 42.2-31.7 52.5l-643.8 341.9c-8.8 4.7-18.4 7-28 7zm-500.4-396.2l500.6 268.9 517-274.6-500.5-268.9z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 915.3c-9.4 0-18.7-2.3-27.2-6.9l-627-336.8c-18.7-10.1-30.3-29.6-30.3-50.8 0.1-21.2 11.8-40.7 30.6-50.6l643.8-341.9c16.9-9 37.3-8.9 54.1 0.1l627 336.9c18.7 10 30.3 29.5 30.3 50.7-0.1 21.3-11.8 40.7-30.5 50.6l-643.9 342c-8.4 4.4-17.7 6.7-26.9 6.7zm-505.1-394.1l505.2 271.5 521.8-277.1-505.2-271.4z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 913.1c-9 0-18-2.2-26.2-6.6l-626.9-336.9c-18-9.6-29.2-28.4-29.1-48.8 0-20.4 11.3-39.1 29.3-48.6l643.8-342c16.3-8.6 35.9-8.6 52.1 0.2l627 336.8c17.9 9.7 29.1 28.5 29.1 48.8-0.1 20.4-11.3 39.1-29.3 48.7l-643.9 341.9c-8.1 4.3-17 6.5-25.9 6.5zm-509.8-391.9l509.9 274 526.5-279.6-509.9-273.9z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 910.9c-8.6 0-17.3-2.2-25.1-6.4l-627-336.8c-17.2-9.3-28-27.3-27.9-46.9 0-19.6 10.8-37.5 28.1-46.7l643.9-341.9c15.6-8.3 34.4-8.3 50 0.1l626.9 336.9c17.3 9.3 28 27.3 28 46.8-0.1 19.6-10.9 37.6-28.2 46.7l-643.8 342c-7.8 4.1-16.4 6.2-24.9 6.2zm-514.4-389.7l514.5 276.5 531.2-282.1-514.6-276.4z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 908.6c-8.3 0-16.6-2-24.1-6l-627-336.9c-16.5-8.9-26.8-26.1-26.7-44.9 0-18.7 10.4-35.9 27-44.7l643.8-341.9c15-8 33-8 47.9 0.1l627 336.8c16.5 8.9 26.8 26.2 26.8 44.9-0.1 18.8-10.5 36-27 44.8l-643.9 341.9c-7.4 4-15.6 5.9-23.8 5.9zm-519.1-387.4l519.2 279 535.9-284.6-519.3-278.9z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 906.4c-7.9 0-15.8-1.9-23-5.8l-627-336.8c-15.8-8.5-25.7-25-25.6-43 0-17.9 10-34.4 25.8-42.8l643.9-341.9c14.3-7.6 31.5-7.6 45.8 0.1l627 336.9c15.8 8.5 25.6 25 25.6 42.9-0.1 18-10 34.4-25.9 42.8l-643.8 342c-7.1 3.7-15 5.6-22.8 5.6zm-523.8-385.2l523.9 281.5 540.6-287-524-281.6z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 904.2c-7.6 0-15.1-1.8-22-5.5l-627-336.9c-15.1-8.1-24.4-23.8-24.4-41 0-17.1 9.5-32.8 24.6-40.8l643.9-341.9c13.7-7.3 30.1-7.3 43.7 0.1l627 336.8c15.1 8.1 24.5 23.9 24.4 41 0 17.2-9.5 32.9-24.6 40.9l-643.8 341.9c-6.8 3.6-14.3 5.4-21.8 5.4zm-528.5-383l528.6 284 545.3-289.5-528.7-284.1z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 902c-7.2 0-14.4-1.7-20.9-5.3l-627-336.8c-14.4-7.7-23.3-22.8-23.3-39.1 0-16.3 9.1-31.2 23.5-38.9l643.8-341.9c13.1-6.9 28.7-6.9 41.7 0.1l627 336.9c14.3 7.7 23.3 22.7 23.2 39 0 16.3-9 31.3-23.4 38.9l-643.9 341.9c-6.5 3.5-13.6 5.2-20.7 5.2zm-533.2-380.8l533.3 286.5 549.9-292-533.3-286.6z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 899.8c-6.8 0-13.7-1.7-19.9-5l-627-336.9c-13.6-7.3-22.1-21.6-22.1-37.1 0-15.5 8.6-29.7 22.3-36.9l643.9-341.9c12.3-6.6 27.2-6.6 39.5 0l627 336.9c13.7 7.4 22.2 21.6 22.1 37.1 0 15.5-8.6 29.7-22.3 37l-643.8 341.9c-6.2 3.3-12.9 4.9-19.7 4.9zm-537.9-378.6l538 289 554.6-294.5-538-289.1z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 897.6c-6.5 0-13-1.6-18.8-4.7l-627-336.9c-13-7-21-20.5-21-35.1 0.1-14.7 8.2-28.2 21.1-35.1l643.9-341.9c11.7-6.2 25.8-6.2 37.5 0.1l627 336.9c12.9 6.9 21 20.4 20.9 35.1 0 14.7-8.1 28.2-21.1 35l-643.9 341.9c-5.8 3.1-12.2 4.7-18.6 4.7zm-542.6-376.4l542.7 291.5 559.3-297-542.7-291.6z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 895.4c-6.1 0-12.2-1.5-17.8-4.5l-627-336.9c-12.2-6.5-19.8-19.3-19.8-33.1 0.1-13.9 7.7-26.6 20-33.1l643.8-341.9c11.1-5.9 24.4-5.9 35.4 0l627 336.9c12.2 6.6 19.8 19.3 19.8 33.2 0 13.9-7.7 26.6-19.9 33.1l-643.9 341.9c-5.5 2.9-11.6 4.4-17.6 4.4zm-547.3-374.3l547.4 294.1 564-299.5-547.3-294.1z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 893.2c-5.8 0-11.5-1.4-16.7-4.2l-627-336.9c-11.5-6.2-18.7-18.2-18.7-31.2 0.1-13.1 7.3-25.1 18.8-31.2l643.9-341.9c10.4-5.5 22.9-5.5 33.3 0.1l627 336.9c11.5 6.1 18.6 18.1 18.6 31.2 0 13-7.3 25-18.8 31.1l-643.8 341.9c-5.2 2.8-10.9 4.2-16.6 4.2zm-552-372.1l552.1 296.6 568.7-302-552-296.6z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 891c-5.4 0-10.8-1.4-15.7-4l-627-336.9c-10.8-5.7-17.5-17-17.4-29.2 0-12.3 6.8-23.5 17.6-29.2l643.8-341.9c9.8-5.2 21.5-5.2 31.2 0l627 336.9c10.8 5.8 17.5 17.1 17.5 29.3 0 12.2-6.8 23.4-17.6 29.2l-643.9 341.9c-4.8 2.6-10.2 3.9-15.5 3.9zm-556.7-369.9l556.8 299.1 573.4-304.5-556.7-299.1z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 888.8c-5 0-10.1-1.3-14.7-3.7l-626.9-336.9c-10.1-5.4-16.4-15.9-16.3-27.3 0-11.5 6.3-21.9 16.4-27.3l643.8-341.9c9.2-4.8 20.1-4.8 29.2 0.1l627 336.9c10 5.4 16.3 15.9 16.3 27.3-0.1 11.4-6.4 21.9-16.5 27.2l-643.8 341.9c-4.5 2.4-9.5 3.7-14.5 3.7zm-561.3-367.7l561.4 301.6 578.1-306.9-561.4-301.7z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 886.5c-4.7 0-9.4-1.1-13.6-3.4l-627-336.9c-9.3-5-15.2-14.7-15.1-25.3 0-10.6 5.9-20.4 15.2-25.3l643.9-341.9c8.5-4.5 18.6-4.5 27.1 0l626.9 336.9c9.4 5 15.2 14.8 15.2 25.4-0.1 10.6-5.9 20.3-15.3 25.3l-643.8 341.9c-4.3 2.2-8.9 3.3-13.5 3.3zm-566-365.4l566.1 304.1 582.8-309.4-566.1-304.2z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 884.3c-4.3 0-8.6-1-12.6-3.1l-627-336.9c-8.6-4.6-13.9-13.6-13.9-23.4 0-9.8 5.4-18.8 14.1-23.4l643.8-341.9c7.8-4.1 17.2-4.1 25 0.1l627 336.9c8.6 4.6 14 13.6 14 23.4-0.1 9.8-5.5 18.7-14.1 23.3l-643.9 341.9c-3.9 2.1-8.1 3.1-12.4 3.1zm-570.7-363.2l570.8 306.7 587.5-312-570.8-306.7z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 882.1c-4 0-7.9-0.9-11.5-2.9l-627-336.8c-7.9-4.3-12.8-12.5-12.8-21.5 0-9 5-17.2 12.9-21.4l643.9-341.9c7.1-3.8 15.7-3.8 22.9 0l626.9 336.9c7.9 4.2 12.9 12.5 12.8 21.5 0 8.9-4.9 17.2-12.9 21.4l-643.8 341.9c-3.6 1.9-7.5 2.8-11.4 2.8zm-575.4-361l575.5 309.2 592.2-314.5-575.5-309.2z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 879.9c-3.6 0-7.2-0.9-10.5-2.6l-627-336.9c-7.1-3.9-11.6-11.4-11.6-19.5 0-8.2 4.5-15.6 11.7-19.5l643.9-341.9c6.5-3.4 14.3-3.4 20.8 0.1l627 336.8c7.2 3.9 11.7 11.4 11.6 19.6 0 8.1-4.5 15.6-11.7 19.4l-643.8 341.9c-3.3 1.8-6.8 2.6-10.4 2.6zm-580.1-358.8l580.1 311.7 596.9-317-580.1-311.7z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 877.7c-3.2 0-6.5-0.8-9.4-2.4l-627-336.8c-6.5-3.5-10.5-10.3-10.5-17.6 0-7.3 4.1-14.1 10.6-17.5l643.8-341.9c5.9-3.1 12.9-3.1 18.8 0l627 336.9c6.4 3.5 10.4 10.2 10.4 17.6 0 7.3-4 14-10.5 17.5l-643.9 341.9c-2.9 1.5-6.1 2.3-9.3 2.3zm-584.8-356.7l584.8 314.3 601.6-319.5-584.8-314.2z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 875.5c-2.9 0-5.8-0.7-8.4-2.1l-627-336.9c-5.7-3.1-9.3-9.1-9.3-15.6 0-6.5 3.6-12.5 9.4-15.6l643.9-341.9c5.2-2.7 11.4-2.7 16.6 0.1l627 336.8c5.8 3.1 9.3 9.1 9.3 15.7 0 6.5-3.6 12.5-9.4 15.5l-643.8 341.9c-2.6 1.4-5.5 2.1-8.3 2.1zm-589.5-354.5l589.5 316.8 606.3-322-589.5-316.7z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 873.3c-2.5 0-5-0.6-7.3-1.9l-627-336.8c-5.1-2.7-8.2-8-8.2-13.7 0-5.7 3.2-10.9 8.2-13.6l643.9-341.9c4.6-2.5 10-2.4 14.6 0l627 336.9c5 2.7 8.1 7.9 8.1 13.6 0 5.8-3.2 11-8.2 13.7l-643.9 341.9c-2.2 1.2-4.7 1.8-7.2 1.8zm-594.2-352.3l594.2 319.3 611-324.5-594.2-319.2z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: .1">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 871.1c-2.2 0-4.3-0.6-6.3-1.6l-627-336.9c-4.3-2.3-7-6.8-7-11.7 0-4.9 2.8-9.4 7.1-11.7l643.8-341.9c3.9-2 8.6-2 12.5 0.1l627 336.8c4.3 2.3 7 6.8 7 11.7 0 4.9-2.7 9.4-7 11.7l-643.9 341.9c-1.9 1.1-4.1 1.6-6.2 1.6zm-598.9-350.1l598.9 321.8 615.7-327-598.9-321.7z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 868.9c-1.8 0-3.6-0.5-5.2-1.4l-627-336.8c-3.6-2-5.9-5.7-5.8-9.8 0-4.1 2.2-7.8 5.8-9.7l643.9-341.9c3.2-1.7 7.1-1.7 10.4 0l627 336.9c3.6 1.9 5.8 5.7 5.8 9.7 0 4.1-2.3 7.9-5.9 9.8l-643.8 341.9c-1.6 0.8-3.4 1.3-5.2 1.3zm-603.6-347.9l603.6 324.3 620.4-329.4-603.6-324.3z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s1" d="m717.8 866.4c-1.4 0-2.8-0.3-4.1-1l-627-336.9c-2.8-1.5-4.5-4.4-4.5-7.6 0-3.1 1.8-6.1 4.6-7.5l643.8-342c2.6-1.3 5.6-1.3 8.1 0.1l627 336.8c2.8 1.5 4.5 4.5 4.5 7.6 0 3.2-1.7 6.1-4.5 7.6l-643.9 341.9c-1.2 0.7-2.6 1-4 1zm-608.8-345.4l608.8 327.1 625.6-332.2-608.8-327.1z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s2" d="m717.8 864c-1 0-2-0.3-2.9-0.8l-627-336.8c-2-1.1-3.2-3.2-3.2-5.5 0-2.2 1.2-4.3 3.2-5.4l643.9-341.9c1.8-0.9 4-0.9 5.8 0l626.9 336.9c2 1.1 3.3 3.2 3.3 5.4 0 2.3-1.3 4.4-3.3 5.4l-643.8 341.9c-0.9 0.5-1.9 0.8-2.9 0.8zm-614-343l614 329.9 630.8-335-614-329.9z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s3" d="m717.8 861.5c-0.6 0-1.2-0.1-1.8-0.4l-626.9-336.9c-1.2-0.7-2-1.9-2-3.3 0-1.3 0.8-2.6 2-3.2l643.8-341.9c1.1-0.6 2.4-0.6 3.5 0l627 336.9c1.2 0.6 1.9 1.9 1.9 3.2 0 1.4-0.7 2.6-1.9 3.3l-643.9 341.9q-0.8 0.4-1.7 0.4zm-619.2-340.5l619.2 332.6 636-337.7-619.2-332.7z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s4" d="m717.8 859q-0.3 0-0.6-0.1l-627-336.9c-0.4-0.2-0.6-0.6-0.6-1.1 0-0.4 0.2-0.8 0.6-1l643.9-342c0.3-0.1 0.8-0.1 1.1 0.1l627 336.8c0.4 0.2 0.7 0.7 0.7 1.1 0 0.5-0.3 0.9-0.7 1.1l-643.8 341.9q-0.3 0.1-0.6 0.1zm-624.4-338l624.4 335.4 641.2-340.5-624.3-335.5z"/>
+							</g>
+						</g>
+					</g>
+					<g id="&lt;Group&gt;">
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 868.1c-15.8 0-31.7-3.9-46-11.6l-627-336.9c-31.6-17-51.3-50-51.2-85.9 0.1-35.9 19.9-68.8 51.6-85.6l643.9-341.9c28.6-15.2 63-15.1 91.6 0.2l627 336.9c31.6 17 51.3 50 51.2 85.9-0.1 35.9-20 68.8-51.7 85.6l-643.8 341.9c-14.3 7.6-29.9 11.4-45.6 11.4zm-420.6-433.6l420.9 226.1 437.2-232.2-420.9-226.1z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 865.9c-15.5 0-30.9-3.8-45-11.4l-627-336.8c-30.9-16.6-50.1-48.9-50-84 0.1-35 19.5-67.2 50.4-83.7l643.9-341.9c28-14.8 61.6-14.8 89.5 0.3l627 336.8c30.9 16.6 50.1 48.9 50.1 84-0.1 35-19.5 67.2-50.5 83.7l-643.8 341.9c-14 7.4-29.3 11.1-44.6 11.1zm-425.3-431.4l425.6 228.6 441.9-234.7-425.6-228.6z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 863.6c-15.1 0-30.2-3.6-43.9-11l-627-336.9c-30.2-16.2-49-47.7-48.9-82 0.1-34.2 19-65.6 49.3-81.7l643.8-341.9c27.4-14.5 60.2-14.5 87.5 0.2l627 336.9c30.1 16.2 48.9 47.7 48.8 82 0 34.2-19 65.6-49.2 81.7l-643.9 341.9c-13.6 7.2-28.6 10.8-43.5 10.8zm-430-429.2l430.2 231.2 446.7-237.1-430.3-231.2z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 861.4c-14.8 0-29.5-3.6-42.9-10.8l-627-336.8c-29.4-15.9-47.8-46.6-47.7-80.1 0.1-33.4 18.6-64.1 48.1-79.8l643.9-341.9c26.7-14.1 58.7-14.1 85.3 0.3l627 336.8c29.5 15.9 47.8 46.6 47.7 80.1 0 33.4-18.5 64.1-48.1 79.8l-643.8 341.9c-13.3 7-27.9 10.5-42.5 10.5zm-434.7-427l434.9 233.7 451.4-239.6-435-233.7z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 859.2c-14.4 0-28.8-3.5-41.8-10.5l-627-336.9c-28.8-15.4-46.7-45.4-46.6-78.1 0.1-32.6 18.1-62.5 46.9-77.8l643.9-341.9c26.1-13.8 57.3-13.8 83.3 0.2l627 336.9c28.7 15.4 46.6 45.4 46.5 78.1-0.1 32.6-18.1 62.5-46.9 77.8l-643.9 341.9c-12.9 6.9-27.2 10.3-41.4 10.3zm-439.4-424.8l439.6 236.2 456-242.1-439.6-236.2z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 857c-14 0-28.1-3.4-40.8-10.2l-627-336.9c-28-15.1-45.5-44.3-45.4-76.1 0.1-31.9 17.7-61 45.8-75.9l643.8-342c25.4-13.4 55.9-13.4 81.2 0.2l627 336.9c28 15.1 45.5 44.3 45.4 76.1-0.1 31.9-17.7 61-45.7 75.9l-643.9 341.9c-12.6 6.8-26.5 10.1-40.4 10.1zm-444.1-422.6l444.3 238.7 460.7-244.6-444.3-238.7z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 854.8c-13.7 0-27.3-3.3-39.8-10l-626.9-336.9c-27.3-14.6-44.3-43.1-44.3-74.1 0.1-31 17.2-59.5 44.6-74l643.9-341.9c24.7-13.2 54.4-13.1 79.1 0.2l627 336.9c27.3 14.6 44.3 43.2 44.2 74.1-0.1 31-17.2 59.5-44.6 74l-643.8 341.9c-12.3 6.5-25.9 9.8-39.4 9.8zm-448.8-420.4l449 241.2 465.4-247.1-449-241.2z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 852.6c-13.3 0-26.6-3.2-38.7-9.7l-627-336.9c-26.6-14.3-43.1-42.1-43.1-72.2 0.1-30.2 16.8-57.9 43.5-72l643.8-342c24.1-12.7 53-12.7 77.1 0.2l626.9 336.9c26.6 14.3 43.2 42.1 43.1 72.2-0.1 30.2-16.8 57.9-43.4 72l-643.9 341.9c-12 6.4-25.1 9.6-38.3 9.6zm-453.5-418.2l453.7 243.7 470.1-249.6-453.7-243.8z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 850.4c-13 0-25.9-3.2-37.7-9.5l-626.9-336.9c-25.9-13.9-42-40.9-41.9-70.2 0-29.4 16.3-56.3 42.2-70.1l643.8-341.9c23.5-12.5 51.6-12.4 75 0.2l627 336.9c25.9 13.9 42 40.9 41.9 70.2-0.1 29.4-16.3 56.3-42.2 70.1l-643.9 341.9c-11.7 6.2-24.5 9.3-37.3 9.3zm-458.2-416l458.4 246.3 474.8-252.2-458.4-246.3z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 848.2c-12.6 0-25.2-3.1-36.6-9.2l-627-336.9c-25.2-13.5-40.8-39.8-40.7-68.3 0-28.6 15.8-54.8 41-68.1l643.9-341.9c22.8-12.1 50.1-12.1 72.9 0.1l626.9 336.9c25.2 13.5 40.9 39.8 40.8 68.3-0.1 28.6-15.9 54.8-41.1 68.1l-643.8 341.9c-11.4 6.1-23.8 9.1-36.3 9.1zm-462.8-413.8l463 248.8 479.5-254.7-463.1-248.8z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 846c-12.2 0-24.5-3-35.6-9l-627-336.9c-24.4-13.1-39.6-38.6-39.5-66.3 0-27.7 15.4-53.2 39.9-66.2l643.8-341.9c22.2-11.8 48.7-11.7 70.8 0.2l627 336.9c24.4 13.1 39.6 38.6 39.6 66.3-0.1 27.7-15.4 53.2-39.9 66.2l-643.9 341.9c-11 5.8-23.1 8.8-35.2 8.8zm-467.5-411.6l467.7 251.3 484.2-257.2-467.8-251.3z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 843.8c-11.9 0-23.7-2.9-34.5-8.7l-627-336.9c-23.7-12.7-38.5-37.5-38.4-64.4 0-26.9 14.9-51.6 38.7-64.2l643.9-341.9c21.5-11.5 47.2-11.4 68.7 0.1l627 336.9c23.7 12.7 38.4 37.5 38.4 64.4-0.1 26.9-15 51.6-38.8 64.2l-643.8 341.9c-10.7 5.7-22.5 8.6-34.2 8.6zm-472.2-409.5l472.4 253.9 488.9-259.6-472.4-253.9z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 841.5c-11.5 0-23-2.8-33.5-8.4l-627-336.8c-23-12.4-37.3-36.4-37.2-62.5 0-26.1 14.5-50 37.5-62.3l643.9-341.9c20.8-11.1 45.8-11 66.6 0.2l627 336.8c23 12.4 37.3 36.4 37.2 62.5 0 26.1-14.4 50.1-37.5 62.3l-643.9 341.9c-10.3 5.5-21.7 8.2-33.1 8.2zm-476.9-407.2l477.1 256.4 493.6-262.1-477.1-256.4z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 839.3c-11.2 0-22.3-2.7-32.4-8.1l-627-336.9c-22.3-12-36.2-35.2-36.1-60.5 0.1-25.3 14-48.5 36.4-60.3l643.8-341.9c20.2-10.8 44.4-10.7 64.6 0.1l627 336.9c22.2 12 36.1 35.2 36 60.5 0 25.3-14 48.5-36.3 60.3l-643.9 341.9c-10 5.4-21.1 8-32.1 8zm-481.6-405l481.8 258.9 498.3-264.6-481.8-258.9z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 837.1c-10.8 0-21.6-2.6-31.4-7.9l-627-336.8c-21.5-11.6-34.9-34.1-34.9-58.6 0.1-24.5 13.6-46.9 35.2-58.4l643.9-341.9c19.5-10.4 42.9-10.3 62.4 0.2l627 336.8c21.6 11.6 35 34.1 34.9 58.6 0 24.5-13.6 46.9-35.2 58.4l-643.8 341.9c-9.7 5.1-20.4 7.7-31.1 7.7zm-486.3-402.8l486.5 261.4 502.9-267.1-486.4-261.4z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 834.9c-10.4 0-20.9-2.5-30.3-7.6l-627-336.9c-20.9-11.2-33.8-32.9-33.8-56.6 0.1-23.6 13.2-45.3 34-56.4l643.9-341.9c18.9-10.1 41.5-10 60.4 0.1l627 336.9c20.8 11.2 33.8 32.9 33.7 56.6 0 23.6-13.1 45.3-34 56.4l-643.9 341.9c-9.4 5-19.7 7.5-30 7.5zm-491-400.6l491.2 263.9 507.6-269.6-491.1-263.9z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 832.7c-10.1 0-20.2-2.4-29.3-7.4l-627-336.8c-20.1-10.8-32.6-31.8-32.6-54.7 0.1-22.8 12.7-43.8 32.9-54.5l643.8-341.9c18.3-9.7 40.1-9.6 58.3 0.2l627 336.8c20.1 10.8 32.7 31.9 32.6 54.7 0 22.8-12.7 43.8-32.8 54.5l-643.9 341.9c-9.1 4.8-19 7.2-29 7.2zm-495.7-398.4l495.9 266.4 512.3-272.1-495.8-266.4z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 830.5c-9.7 0-19.4-2.4-28.3-7.1l-626.9-336.9c-19.4-10.4-31.5-30.7-31.5-52.7 0.1-22 12.3-42.2 31.7-52.5l643.9-341.9c17.6-9.4 38.6-9.3 56.2 0.1l627 336.9c19.4 10.4 31.5 30.7 31.4 52.7-0.1 22-12.2 42.2-31.7 52.5l-643.8 341.9c-8.8 4.7-18.4 7-28 7zm-500.4-396.2l500.6 268.9 517-274.6-500.5-268.9z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 828.3c-9.4 0-18.7-2.3-27.2-6.9l-627-336.8c-18.7-10.1-30.3-29.6-30.3-50.8 0.1-21.2 11.8-40.6 30.6-50.6l643.8-341.9c16.9-9 37.3-8.9 54.1 0.1l627 336.9c18.7 10.1 30.3 29.6 30.3 50.8-0.1 21.2-11.8 40.6-30.5 50.6l-643.9 341.9c-8.4 4.5-17.7 6.7-26.9 6.7zm-505.1-394l505.2 271.4 521.8-277.1-505.2-271.4z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 826.1c-9 0-18-2.2-26.2-6.6l-626.9-336.9c-18-9.6-29.2-28.4-29.1-48.8 0-20.4 11.3-39.1 29.3-48.6l643.8-341.9c16.3-8.7 35.9-8.6 52.1 0.1l627 336.9c17.9 9.6 29.1 28.4 29.1 48.8-0.1 20.4-11.3 39.1-29.3 48.6l-643.9 341.9c-8.1 4.3-17 6.5-25.9 6.5zm-509.8-391.8l509.9 273.9 526.5-279.6-509.9-273.9z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 823.9c-8.6 0-17.3-2.1-25.1-6.3l-627-336.9c-17.2-9.3-28-27.3-27.9-46.9 0-19.5 10.8-37.5 28.1-46.7l643.9-341.9c15.6-8.3 34.4-8.2 50 0.1l626.9 336.9c17.3 9.3 28 27.3 28 46.9-0.1 19.5-10.9 37.5-28.2 46.7l-643.8 341.9c-7.8 4.1-16.4 6.2-24.9 6.2zm-514.4-389.7l514.5 276.5 531.2-282-514.6-276.5z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 821.7c-8.3 0-16.6-2.1-24.1-6.1l-627-336.9c-16.5-8.8-26.8-26.1-26.7-44.9 0-18.7 10.4-35.9 27-44.7l643.8-341.9c15-8 33-7.9 47.9 0.1l627 336.9c16.5 8.8 26.8 26.1 26.8 44.9-0.1 18.7-10.5 35.9-27 44.7l-643.9 341.9c-7.4 4-15.6 6-23.8 6zm-519.1-387.5l519.2 279 535.9-284.5-519.3-279z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 819.4c-7.9 0-15.8-1.9-23-5.7l-627-336.9c-15.8-8.5-25.7-25-25.6-43 0-17.9 10-34.4 25.8-42.8l643.9-341.9c14.3-7.6 31.5-7.6 45.8 0.1l627 336.9c15.8 8.5 25.6 25 25.6 43-0.1 17.9-10 34.4-25.9 42.8l-643.8 341.9c-7.1 3.8-15 5.6-22.8 5.6zm-523.8-385.2l523.9 281.5 540.6-287-524-281.5z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 817.2c-7.6 0-15.1-1.8-22-5.5l-627-336.9c-15.1-8.1-24.4-23.8-24.4-41 0-17.1 9.5-32.8 24.6-40.8l643.9-341.9c13.7-7.3 30.1-7.3 43.7 0.1l627 336.9c15.1 8.1 24.5 23.8 24.4 41 0 17.1-9.5 32.8-24.6 40.8l-643.8 341.9c-6.8 3.6-14.3 5.4-21.8 5.4zm-528.5-383l528.6 284 545.3-289.5-528.7-284z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 815c-7.2 0-14.4-1.7-20.9-5.2l-627-336.9c-14.4-7.7-23.3-22.7-23.3-39 0-16.4 9.1-31.3 23.5-39l643.8-341.9c13.1-6.9 28.7-6.9 41.7 0.1l627 336.9c14.3 7.7 23.3 22.7 23.2 39 0 16.4-9 31.3-23.4 39l-643.9 341.9c-6.5 3.4-13.6 5.1-20.7 5.1zm-533.2-380.8l533.3 286.5 549.9-292-533.3-286.5z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 812.8c-6.8 0-13.7-1.6-19.9-5l-627-336.8c-13.6-7.4-22.1-21.6-22.1-37.1 0-15.5 8.6-29.7 22.3-37l643.9-341.9c12.3-6.6 27.2-6.6 39.5 0.1l627 336.9c13.7 7.3 22.2 21.5 22.1 37 0 15.5-8.6 29.8-22.3 37l-643.8 341.9c-6.2 3.3-12.9 4.9-19.7 4.9zm-537.9-378.6l538 289 554.6-294.5-538-289z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 810.6c-6.5 0-13-1.6-18.8-4.7l-627-336.9c-13-6.9-21-20.5-21-35.1 0.1-14.7 8.2-28.2 21.1-35.1l643.9-341.9c11.7-6.2 25.8-6.2 37.5 0.1l627 336.9c12.9 6.9 21 20.5 20.9 35.1 0 14.7-8.1 28.2-21.1 35.1l-643.9 341.9c-5.8 3.1-12.2 4.6-18.6 4.6zm-542.6-376.4l542.7 291.5 559.3-297-542.7-291.5z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 808.4c-6.1 0-12.2-1.5-17.8-4.5l-627-336.8c-12.2-6.6-19.8-19.4-19.8-33.2 0.1-13.9 7.7-26.6 20-33.1l643.8-341.9c11.1-5.9 24.4-5.9 35.4 0.1l627 336.8c12.2 6.6 19.8 19.4 19.8 33.2 0 13.9-7.7 26.6-19.9 33.1l-643.9 341.9c-5.5 2.9-11.6 4.4-17.6 4.4zm-547.3-374.2l547.4 294 564-299.5-547.3-294.1z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 806.2c-5.8 0-11.5-1.4-16.7-4.2l-627-336.9c-11.5-6.2-18.7-18.2-18.7-31.2 0.1-13.1 7.3-25 18.8-31.2l643.9-341.9c10.4-5.5 22.9-5.5 33.3 0.1l627 336.9c11.5 6.2 18.6 18.2 18.6 31.2 0 13.1-7.3 25-18.8 31.2l-643.8 341.9c-5.2 2.7-10.9 4.1-16.6 4.1zm-552-372.1l552.1 296.7 568.7-302-552-296.7z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 804c-5.4 0-10.8-1.3-15.7-4l-627-336.8c-10.8-5.8-17.5-17.1-17.4-29.3 0-12.2 6.8-23.5 17.6-29.2l643.8-341.9c9.8-5.2 21.5-5.2 31.2 0.1l627 336.8c10.8 5.8 17.5 17.1 17.5 29.3 0 12.3-6.8 23.5-17.6 29.2l-643.9 341.9c-4.8 2.6-10.2 3.9-15.5 3.9zm-556.7-369.9l556.8 299.2 573.4-304.5-556.7-299.2z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 801.8c-5 0-10.1-1.3-14.7-3.7l-626.9-336.9c-10.1-5.4-16.4-15.9-16.3-27.3 0-11.4 6.3-21.9 16.4-27.3l643.8-341.9c9.2-4.8 20.1-4.8 29.2 0.1l627 336.9c10 5.4 16.3 15.9 16.3 27.3-0.1 11.4-6.4 21.9-16.5 27.3l-643.8 341.9c-4.5 2.4-9.5 3.6-14.5 3.6zm-561.3-367.7l561.4 301.7 578.1-307-561.4-301.7z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 799.6c-4.7 0-9.4-1.2-13.6-3.5l-627-336.8c-9.3-5.1-15.2-14.8-15.1-25.4 0-10.6 5.9-20.3 15.2-25.3l643.9-341.9c8.5-4.5 18.6-4.5 27.1 0.1l626.9 336.8c9.4 5.1 15.2 14.8 15.2 25.4-0.1 10.6-5.9 20.3-15.3 25.3l-643.8 341.9c-4.3 2.2-8.9 3.4-13.5 3.4zm-566-365.5l566.1 304.2 582.8-309.5-566.1-304.2z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 797.4c-4.3 0-8.6-1.1-12.6-3.2l-627-336.9c-8.6-4.6-13.9-13.6-13.9-23.4 0-9.8 5.4-18.8 14.1-23.4l643.8-341.9c7.8-4.1 17.2-4.1 25 0.1l627 336.9c8.6 4.6 14 13.6 14 23.4-0.1 9.8-5.5 18.8-14.1 23.4l-643.9 341.9c-3.9 2-8.1 3.1-12.4 3.1zm-570.7-363.3l570.8 306.7 587.5-312-570.8-306.7z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 795.1c-4 0-7.9-0.9-11.5-2.8l-627-336.9c-7.9-4.3-12.8-12.5-12.8-21.5 0-9 5-17.2 12.9-21.4l643.9-341.9c7.1-3.8 15.7-3.8 22.9 0l626.9 336.9c7.9 4.3 12.9 12.5 12.8 21.5 0 9-4.9 17.2-12.9 21.4l-643.8 341.9c-3.6 1.9-7.5 2.8-11.4 2.8zm-575.4-361l575.5 309.2 592.2-314.5-575.5-309.2z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 792.9c-3.6 0-7.2-0.8-10.5-2.6l-627-336.9c-7.1-3.8-11.6-11.3-11.6-19.5 0-8.1 4.5-15.6 11.7-19.4l643.9-342c6.5-3.4 14.3-3.4 20.8 0.1l627 336.9c7.2 3.8 11.7 11.3 11.6 19.5 0 8.1-4.5 15.6-11.7 19.5l-643.8 341.9c-3.3 1.7-6.8 2.5-10.4 2.5zm-580.1-358.8l580.1 311.7 596.9-317-580.1-311.7z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 790.7c-3.2 0-6.5-0.8-9.4-2.3l-627-336.9c-6.5-3.5-10.5-10.2-10.5-17.6 0-7.3 4.1-14.1 10.6-17.5l643.8-341.9c5.9-3.1 12.9-3.1 18.8 0l627 336.9c6.4 3.5 10.4 10.2 10.4 17.6 0 7.3-4 14.1-10.5 17.5l-643.9 341.9c-2.9 1.5-6.1 2.3-9.3 2.3zm-584.8-356.6l584.8 314.2 601.6-319.5-584.8-314.2z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 788.5c-2.9 0-5.8-0.7-8.4-2.1l-627-336.9c-5.7-3-9.3-9.1-9.3-15.6 0-6.5 3.6-12.5 9.4-15.6l643.9-341.9c5.2-2.7 11.4-2.7 16.6 0.1l627 336.9c5.8 3.1 9.3 9.1 9.3 15.6 0 6.5-3.6 12.5-9.4 15.6l-643.8 341.9c-2.6 1.3-5.5 2-8.3 2zm-589.5-354.4l589.5 316.7 606.3-322-589.5-316.7z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: 0">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 786.3c-2.5 0-5-0.6-7.3-1.8l-627-336.9c-5.1-2.7-8.2-8-8.2-13.7 0-5.7 3.2-10.9 8.2-13.6l643.9-341.9c4.6-2.4 10-2.4 14.6 0l627 336.9c5 2.7 8.1 8 8.1 13.7 0 5.7-3.2 10.9-8.2 13.6l-643.9 341.9c-2.2 1.2-4.7 1.8-7.2 1.8zm-594.2-352.3l594.2 319.3 611-324.4-594.2-319.3z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;" style="opacity: .1">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 784.1c-2.2 0-4.3-0.5-6.3-1.6l-627-336.9c-4.3-2.3-7-6.8-7-11.7 0-4.9 2.8-9.4 7.1-11.6l643.8-342c3.9-2 8.6-2 12.5 0.1l627 336.9c4.3 2.3 7 6.8 7 11.7 0 4.9-2.7 9.4-7 11.6l-643.9 341.9c-1.9 1.1-4.1 1.6-6.2 1.6zm-598.9-350.1l598.9 321.8 615.7-326.9-598.9-321.8z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m717.8 781.9c-1.8 0-3.6-0.5-5.2-1.3l-627-336.9c-3.6-1.9-5.9-5.7-5.8-9.8 0-4 2.2-7.8 5.8-9.7l643.9-341.9c3.2-1.7 7.1-1.7 10.4 0l627 336.9c3.6 1.9 5.8 5.7 5.8 9.8 0 4-2.3 7.8-5.9 9.7l-643.8 341.9c-1.6 0.9-3.4 1.3-5.2 1.3zm-603.6-347.9l603.6 324.3 620.4-329.4-603.6-324.3z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s1" d="m717.8 779.4c-1.4 0-2.8-0.3-4.1-1l-627-336.9c-2.8-1.5-4.5-4.4-4.5-7.6 0-3.1 1.8-6 4.6-7.5l643.8-341.9c2.6-1.4 5.6-1.4 8.1 0l627 336.9c2.8 1.5 4.5 4.4 4.5 7.6 0 3.1-1.7 6-4.5 7.5l-643.9 341.9c-1.2 0.7-2.6 1-4 1zm-608.8-345.4l608.8 327.1 625.6-332.2-608.8-327.1z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s2" d="m717.8 777c-1 0-2-0.3-2.9-0.8l-627-336.8c-2-1.1-3.2-3.2-3.2-5.4 0-2.3 1.2-4.4 3.2-5.5l643.9-341.9c1.8-0.9 4-0.9 5.8 0l626.9 336.9c2 1.1 3.3 3.2 3.3 5.5 0 2.2-1.3 4.3-3.3 5.4l-643.8 341.9c-0.9 0.4-1.9 0.7-2.9 0.7zm-614-343l614 329.9 630.8-335-614-329.9z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s3" d="m717.8 774.5c-0.6 0-1.2-0.1-1.8-0.4l-626.9-336.9c-1.2-0.6-2-1.9-2-3.2 0-1.4 0.8-2.7 2-3.3l643.8-341.9c1.1-0.6 2.4-0.6 3.5 0l627 336.9c1.2 0.6 1.9 1.9 1.9 3.2 0 1.4-0.7 2.7-1.9 3.3l-643.9 341.9q-0.8 0.4-1.7 0.4zm-619.2-340.5l619.2 332.7 636-337.8-619.2-332.7z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s4" d="m717.8 772.1q-0.3 0-0.6-0.2l-627-336.9c-0.4-0.2-0.6-0.6-0.6-1 0-0.5 0.2-0.9 0.6-1.1l643.9-341.9c0.3-0.2 0.8-0.2 1.1 0l627 336.9c0.4 0.2 0.7 0.6 0.7 1 0 0.5-0.3 0.9-0.7 1.1l-643.8 341.9q-0.3 0.2-0.6 0.2zm-624.4-338.1l624.4 335.4 641.2-340.5-624.3-335.5z"/>
+							</g>
+						</g>
+					</g>
+					<g id="&lt;Group&gt;">
+						<path id="&lt;Path&gt;" class="s5" d="m1024.5 336.9c1.2 162.9-129.8 296-292.7 297.2-163 1.2-296-129.9-297.2-292.8-1.2-162.9 129.8-296 292.8-297.2 162.9-1.2 295.9 129.9 297.1 292.8z"/>
+						<path id="&lt;Path&gt;" class="s6" d="m1009.1 337c1.1 154.4-123.1 280.5-277.5 281.6-154.3 1.2-280.4-123-281.6-277.4-1.1-154.4 123.1-280.5 277.5-281.6 154.3-1.2 280.4 123.1 281.6 277.4z"/>
+						<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s7" d="m683.2 582.7c-113.9-21.6-200.7-121.5-201.6-241.7-1-136.8 109.4-248.8 246.1-249.8 66.2-0.5 128.7 24.8 175.9 71.3 47.2 46.5 73.4 108.5 73.9 174.8 0.5 66.2-24.8 128.7-71.3 175.8-46.5 47.2-108.6 73.5-174.8 74-16.5 0.1-32.6-1.4-48.2-4.4zm90.8-474.9c-15.1-2.9-30.5-4.3-46.2-4.1-62.9 0.4-121.8 25.4-166 70.2-44.1 44.8-68.2 104.1-67.7 167 0.5 62.9 25.4 121.8 70.2 165.9 44.8 44.2 104.1 68.2 167 67.8 62.9-0.5 121.8-25.4 166-70.2 44.1-44.8 68.2-104.2 67.7-167-0.5-62.9-25.4-121.9-70.2-166-33.6-33.2-75.5-55-120.8-63.6z"/>
+						<g id="&lt;Group&gt;">
+							<path id="&lt;Path&gt;" class="s8" d="m467.3 339.5c-1 0-1.9 0.9-1.8 1.9 0.1 14.6 1.4 29.2 3.9 43.4 0.1 0.9 0.9 1.6 1.8 1.6q0.2 0 0.3-0.1c1-0.1 1.7-1.1 1.5-2.1-2.4-14.1-3.7-28.5-3.8-42.8-0.1-1.1-0.9-1.9-1.9-1.9z"/>
+							<path id="&lt;Path&gt;" class="s9" d="m483.9 425.8c-0.3-1-1.4-1.5-2.3-1.1-1 0.3-1.5 1.3-1.2 2.3 4.8 13.7 10.9 27.1 17.9 39.8 0.3 0.6 1 0.9 1.6 0.9q0.5 0 0.9-0.2c0.9-0.5 1.2-1.6 0.7-2.5-6.9-12.5-12.8-25.7-17.6-39.2z"/>
+							<path id="&lt;Path&gt;" class="s10" d="m525.4 500.8c-0.7-0.8-1.8-1-2.6-0.3-0.8 0.6-1 1.8-0.3 2.6 9 11.3 19 22 29.8 31.8 0.3 0.3 0.8 0.5 1.2 0.5 0.5 0 1-0.2 1.4-0.6 0.7-0.8 0.6-2-0.1-2.7-10.7-9.6-20.5-20.1-29.4-31.3z"/>
+							<path id="&lt;Path&gt;" class="s11" d="m470.2 300q0.1 0 0.3 0c0.9 0 1.6-0.6 1.8-1.5 2.2-14.2 5.6-28.2 10.2-41.8 0.3-1-0.3-2-1.2-2.3-1-0.4-2 0.2-2.4 1.1-4.5 13.8-8 28.1-10.3 42.4-0.1 1 0.6 2 1.6 2.1z"/>
+							<path id="&lt;Path&gt;" class="s12" d="m791.1 86c14 3.4 27.7 8 40.9 13.6q0.3 0.2 0.7 0.2c0.7-0.1 1.4-0.5 1.7-1.2 0.4-0.9 0-2-1-2.4-13.3-5.7-27.3-10.4-41.4-13.8-1-0.2-2 0.4-2.2 1.4-0.3 1 0.3 2 1.3 2.2z"/>
+							<path id="&lt;Path&gt;" class="s13" d="m870 119.8c12 7.7 23.5 16.5 34.1 26.1 0.4 0.3 0.8 0.5 1.3 0.4 0.5 0 1-0.2 1.3-0.6 0.7-0.7 0.7-1.9-0.1-2.6-10.8-9.7-22.4-18.6-34.6-26.5-0.9-0.5-2.1-0.3-2.6 0.6-0.6 0.9-0.3 2 0.6 2.6z"/>
+							<path id="&lt;Path&gt;" class="s14" d="m622 101.7q0.4 0 0.8-0.2c13-5.9 26.7-10.7 40.5-14.3 1-0.3 1.6-1.3 1.3-2.3-0.2-1-1.3-1.5-2.2-1.3-14.1 3.7-27.9 8.6-41.1 14.6-1 0.4-1.4 1.5-1 2.4 0.3 0.7 1 1.1 1.7 1.1z"/>
+							<path id="&lt;Path&gt;" class="s15" d="m550.2 149.6c0.5 0 0.9-0.2 1.3-0.5 10.4-9.8 21.8-18.8 33.7-26.7 0.8-0.6 1-1.8 0.5-2.6-0.6-0.9-1.7-1.1-2.6-0.5-12.1 8-23.5 17.2-34.1 27.1-0.8 0.7-0.8 1.9-0.1 2.6 0.3 0.4 0.8 0.6 1.3 0.6z"/>
+							<path id="&lt;Path&gt;" class="s16" d="m496.9 217.9q0.4 0.3 0.9 0.3c0.6-0.1 1.3-0.4 1.6-1 6.7-12.7 14.5-24.8 23.2-36.2 0.7-0.8 0.5-2-0.3-2.6-0.8-0.6-2-0.5-2.6 0.3-8.8 11.6-16.8 23.9-23.6 36.7-0.4 0.9-0.1 2.1 0.8 2.5z"/>
+							<path id="&lt;Path&gt;" class="s17" d="m626.9 578.5c-13.2-5.6-25.9-12.4-38-20.2-0.9-0.5-2-0.3-2.6 0.6-0.5 0.8-0.3 2 0.6 2.5 12.2 7.9 25.2 14.8 38.5 20.5q0.4 0.2 0.8 0.1c0.7 0 1.3-0.4 1.6-1.1 0.4-0.9 0-2-0.9-2.4z"/>
+							<path id="&lt;Path&gt;" class="s18" d="m959.1 213.9q0.4 0 0.9-0.2c0.8-0.5 1.2-1.6 0.7-2.5-7.1-12.7-15.2-24.9-24.3-36.3-0.6-0.8-1.8-0.9-2.5-0.3-0.8 0.7-1 1.8-0.3 2.6 8.9 11.2 16.9 23.3 23.8 35.8 0.4 0.6 1 0.9 1.7 0.9z"/>
+							<path id="&lt;Path&gt;" class="s19" d="m987.9 295.3q0.1 0 0.3-0.1c1-0.1 1.6-1.1 1.5-2.1-2.5-14.3-6.3-28.5-11.1-42.2-0.4-0.9-1.4-1.5-2.4-1.1-0.9 0.3-1.4 1.4-1.1 2.3 4.8 13.5 8.5 27.5 10.9 41.6 0.2 0.9 1 1.6 1.9 1.6z"/>
+							<path id="&lt;Path&gt;" class="s20" d="m978.9 420.6c-1-0.3-2 0.2-2.3 1.2-4.6 13.6-10.3 26.9-17 39.5-0.5 0.9-0.2 2 0.7 2.5q0.5 0.3 0.9 0.2c0.7 0 1.3-0.3 1.6-0.9 6.9-12.9 12.7-26.3 17.3-40.1 0.3-1-0.2-2-1.2-2.4z"/>
+							<path id="&lt;Path&gt;" class="s21" d="m993.7 336.5c-0.1-1-0.9-1.8-1.9-1.8-1 0-1.9 0.8-1.8 1.8v0.7c0.1 14.3-1 28.8-3.2 42.8-0.2 1.1 0.5 2 1.5 2.2q0.2 0 0.3 0c0.9 0 1.7-0.7 1.8-1.6 2.3-14.3 3.4-28.9 3.3-43.5z"/>
+							<path id="&lt;Path&gt;" class="s22" d="m795.5 591.1c-13.8 3.6-28.1 6.1-42.4 7.4-1 0.1-1.7 1-1.6 2 0.1 0.9 0.9 1.7 1.8 1.7q0.1 0 0.2 0c14.5-1.3 28.9-3.9 42.9-7.5 1-0.3 1.6-1.3 1.4-2.3-0.3-1-1.3-1.6-2.3-1.3z"/>
+							<path id="&lt;Path&gt;" class="s23" d="m750.6 77.7c0.1-1-0.7-1.9-1.7-2-14.4-1.1-29.2-0.9-43.6 0.4-1 0.1-1.7 1-1.7 2 0.1 1 0.9 1.7 1.9 1.7q0.1 0 0.2 0c14.2-1.3 28.7-1.4 43-0.4 1 0 1.9-0.7 1.9-1.7z"/>
+							<path id="&lt;Path&gt;" class="s24" d="m710.1 598.8c-14.3-1-28.5-3.3-42.4-6.7-1-0.2-2 0.4-2.3 1.4-0.2 1 0.4 2 1.4 2.2 14.1 3.5 28.6 5.7 43.1 6.8q0.1 0 0.1 0c1 0 1.8-0.7 1.9-1.7 0-1-0.7-1.9-1.8-2z"/>
+							<path id="&lt;Path&gt;" class="s25" d="m936.3 497.5c-8.7 11.3-18.4 22.1-28.9 31.8-0.8 0.7-0.8 1.9-0.1 2.7 0.4 0.4 0.9 0.6 1.4 0.5 0.4 0 0.9-0.1 1.2-0.5 10.6-9.9 20.5-20.7 29.3-32.3 0.6-0.8 0.5-1.9-0.3-2.6-0.8-0.6-2-0.4-2.6 0.4z"/>
+							<path id="&lt;Path&gt;" class="s26" d="m873.7 556c-11.9 8-24.6 15-37.6 20.8-1 0.4-1.4 1.5-1 2.5 0.3 0.7 1 1.1 1.7 1.1q0.4 0 0.8-0.2c13.2-5.9 26-13 38.1-21.1 0.9-0.5 1.1-1.7 0.6-2.5-0.6-0.9-1.8-1.1-2.6-0.6z"/>
+						</g>
+						<g id="&lt;Group&gt;">
+							<path id="&lt;Compound Path&gt;" class="s27" d="m567.9 248h27l42.2 98.8v-98.8h32.2v190.1h-26.1l-42.2-105.1v105.1h-33.1z"/>
+							<path id="&lt;Compound Path&gt;" class="s28" d="m697.9 248h80.3v26.5h-41.8v51.2h35.4v27h-35.4v85.4h-38.5z"/>
+							<path id="&lt;Compound Path&gt;" class="s29" d="m815.5 276.7h-29.4v-28.7h97.2v28.7h-28.9v161.4h-38.9z"/>
+						</g>
+						<g id="&lt;Group&gt;">
+							<path id="&lt;Compound Path&gt;" class="s30" d="m571.9 244.1h27l42.2 98.8v-98.8h32.1v190h-26l-42.2-105.1v105.1h-33.1z"/>
+							<path id="&lt;Compound Path&gt;" class="s31" d="m701.9 244.1h80.2v26.5h-41.8v51.1h35.5v27h-35.5v85.4h-38.4z"/>
+							<path id="&lt;Compound Path&gt;" class="s32" d="m819.4 272.7h-29.3v-28.6h97.1v28.6h-28.8v161.4h-39z"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
